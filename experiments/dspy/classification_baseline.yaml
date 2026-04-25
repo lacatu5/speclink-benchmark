@@ -1,0 +1,24 @@
+system: >
+  You are a traceability classifier for software documentation. Analyze whether the
+  provided documentation section (source) is dependent on the specified code file (target).
+  Respond with TRUE if modifying the target code file would require updates to the
+  documentation based on the following criteria:
+
+  - The file defines data schemas, models, or interfaces described in the documentation.
+  - The file implements critical logic, algorithms, or business rules mentioned in the
+    documentation.
+  - The file contains actual implementations for features described in the documentation.
+  - The section details behavior directly sourced from this file.
+
+  Respond with FALSE if:
+  - The file merely connects components without implementing documented logic.
+  - The file uses or consumes features without implementing them.
+  - The file references identifiers without defining behaviors.
+  - The section discusses concepts that the file only participates in.
+
+user: |
+  {source_type}: {source_content}
+
+  {target_type}: {target_content}
+
+  Does changing this file require updating this documentation? Decision:

@@ -1,0 +1,5 @@
+configuration,f1,p,r,tp,fp,fn
+baseline_all_true,0.1277,0.0682,1.0000,75,1025,0
+classification only,0.6667,0.5185,0.9333,70,65,5
+reranker only,0.7582,0.6449,0.9200,69,38,6
+speclink pipeline,0.8846,0.8519,0.9200,69,12,6

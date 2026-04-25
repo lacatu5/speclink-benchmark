@@ -1,0 +1,2 @@
+model,f1,p,r,fp,fn,in_tok,out_tok,cost_per_run,input_per_m,output_per_m
+gpt-5-nano,0.8300,0.7621,0.9111,21.3,6.7,74239,107228,0.0466,0.05,0.4

@@ -1,0 +1,6366 @@
+{
+  "model": "infinity/BAAI/bge-reranker-base",
+  "entries": [
+    {
+      "doc_file": "docs/api.md",
+      "heading": "API Reference",
+      "file": "frontend/src/api/client.js",
+      "score": 0.29
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "API Reference",
+      "file": "backend/app.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "API Reference",
+      "file": "backend/cli.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "API Reference",
+      "file": "frontend/src/index.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "API Reference",
+      "file": "frontend/src/App.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "API Reference",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "API Reference",
+      "file": "backend/database.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "API Reference",
+      "file": "backend/config.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "API Reference",
+      "file": "backend/services/auth.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "API Reference",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "API Reference",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "API Reference",
+      "file": "backend/services/tasks.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "API Reference",
+      "file": "backend/models/user.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "API Reference",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "API Reference",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "API Reference",
+      "file": "backend/services/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "API Reference",
+      "file": "backend/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "API Reference",
+      "file": "backend/models/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "API Reference",
+      "file": "backend/models/task.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "API Reference",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Authentication",
+      "file": "backend/cli.py",
+      "score": 0.14
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Authentication",
+      "file": "backend/services/auth.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Authentication",
+      "file": "frontend/src/api/client.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Authentication",
+      "file": "backend/config.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Authentication",
+      "file": "frontend/src/index.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Authentication",
+      "file": "frontend/src/App.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Authentication",
+      "file": "backend/app.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Authentication",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Authentication",
+      "file": "backend/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Authentication",
+      "file": "backend/services/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Authentication",
+      "file": "backend/database.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Authentication",
+      "file": "backend/services/tasks.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Authentication",
+      "file": "backend/models/task.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Authentication",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Authentication",
+      "file": "backend/models/user.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Authentication",
+      "file": "backend/models/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Authentication",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Authentication",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Authentication",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Authentication",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/register",
+      "file": "frontend/src/api/client.js",
+      "score": 0.12
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/register",
+      "file": "backend/services/auth.py",
+      "score": 0.07
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/register",
+      "file": "backend/app.py",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/register",
+      "file": "frontend/src/App.jsx",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/register",
+      "file": "frontend/src/index.jsx",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/register",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/register",
+      "file": "backend/config.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/register",
+      "file": "backend/cli.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/register",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/register",
+      "file": "backend/services/tasks.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/register",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/register",
+      "file": "backend/models/user.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/register",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/register",
+      "file": "backend/__init__.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/register",
+      "file": "backend/database.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/register",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/register",
+      "file": "backend/services/__init__.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/register",
+      "file": "backend/models/task.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/register",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/register",
+      "file": "backend/models/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/login",
+      "file": "backend/services/auth.py",
+      "score": 0.07
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/login",
+      "file": "frontend/src/api/client.js",
+      "score": 0.06
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/login",
+      "file": "backend/cli.py",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/login",
+      "file": "frontend/src/App.jsx",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/login",
+      "file": "backend/services/tasks.py",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/login",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/login",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/login",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/login",
+      "file": "backend/database.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/login",
+      "file": "frontend/src/index.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/login",
+      "file": "backend/config.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/login",
+      "file": "backend/app.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/login",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/login",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/login",
+      "file": "backend/models/user.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/login",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/login",
+      "file": "backend/models/task.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/login",
+      "file": "backend/services/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/login",
+      "file": "backend/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/login",
+      "file": "backend/models/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Tasks",
+      "file": "frontend/src/api/client.js",
+      "score": 0.25
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Tasks",
+      "file": "backend/cli.py",
+      "score": 0.06
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Tasks",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Tasks",
+      "file": "backend/config.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Tasks",
+      "file": "backend/services/tasks.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Tasks",
+      "file": "backend/models/task.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Tasks",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Tasks",
+      "file": "backend/app.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Tasks",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Tasks",
+      "file": "frontend/src/index.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Tasks",
+      "file": "backend/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Tasks",
+      "file": "backend/database.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Tasks",
+      "file": "backend/services/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Tasks",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Tasks",
+      "file": "backend/models/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Tasks",
+      "file": "backend/models/user.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Tasks",
+      "file": "frontend/src/App.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Tasks",
+      "file": "backend/services/auth.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Tasks",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Tasks",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/tasks",
+      "file": "backend/cli.py",
+      "score": 0.13
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/tasks",
+      "file": "frontend/src/api/client.js",
+      "score": 0.11
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/tasks",
+      "file": "backend/services/auth.py",
+      "score": 0.08
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/tasks",
+      "file": "backend/app.py",
+      "score": 0.07
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/tasks",
+      "file": "backend/config.py",
+      "score": 0.07
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/tasks",
+      "file": "backend/__init__.py",
+      "score": 0.07
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/tasks",
+      "file": "backend/database.py",
+      "score": 0.06
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/tasks",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.06
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/tasks",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/tasks",
+      "file": "backend/services/tasks.py",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/tasks",
+      "file": "backend/services/__init__.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/tasks",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/tasks",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/tasks",
+      "file": "backend/models/user.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/tasks",
+      "file": "frontend/src/index.jsx",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/tasks",
+      "file": "backend/models/__init__.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/tasks",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/tasks",
+      "file": "frontend/src/App.jsx",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/tasks",
+      "file": "backend/models/task.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/tasks",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks",
+      "file": "backend/app.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks",
+      "file": "backend/services/tasks.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks",
+      "file": "frontend/src/api/client.js",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks",
+      "file": "backend/config.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks",
+      "file": "backend/models/task.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks",
+      "file": "frontend/src/index.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks",
+      "file": "frontend/src/App.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks",
+      "file": "backend/cli.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks",
+      "file": "backend/models/user.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks",
+      "file": "backend/database.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks",
+      "file": "backend/services/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks",
+      "file": "backend/services/auth.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks",
+      "file": "backend/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks",
+      "file": "backend/models/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks/stats",
+      "file": "frontend/src/api/client.js",
+      "score": 0.55
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks/stats",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.36
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks/stats",
+      "file": "backend/models/task.py",
+      "score": 0.34
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks/stats",
+      "file": "backend/services/tasks.py",
+      "score": 0.11
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks/stats",
+      "file": "frontend/src/index.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks/stats",
+      "file": "backend/cli.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks/stats",
+      "file": "backend/app.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks/stats",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks/stats",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks/stats",
+      "file": "backend/config.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks/stats",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks/stats",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks/stats",
+      "file": "backend/database.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks/stats",
+      "file": "frontend/src/App.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks/stats",
+      "file": "backend/models/user.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks/stats",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks/stats",
+      "file": "backend/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks/stats",
+      "file": "backend/services/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks/stats",
+      "file": "backend/services/auth.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks/stats",
+      "file": "backend/models/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "PATCH /api/tasks/:id/status",
+      "file": "frontend/src/api/client.js",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "PATCH /api/tasks/:id/status",
+      "file": "backend/config.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "PATCH /api/tasks/:id/status",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "PATCH /api/tasks/:id/status",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "PATCH /api/tasks/:id/status",
+      "file": "frontend/src/index.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "PATCH /api/tasks/:id/status",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "PATCH /api/tasks/:id/status",
+      "file": "backend/models/task.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "PATCH /api/tasks/:id/status",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "PATCH /api/tasks/:id/status",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "PATCH /api/tasks/:id/status",
+      "file": "backend/services/tasks.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "PATCH /api/tasks/:id/status",
+      "file": "backend/app.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "PATCH /api/tasks/:id/status",
+      "file": "backend/cli.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "PATCH /api/tasks/:id/status",
+      "file": "backend/models/user.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "PATCH /api/tasks/:id/status",
+      "file": "backend/database.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "PATCH /api/tasks/:id/status",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "PATCH /api/tasks/:id/status",
+      "file": "frontend/src/App.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "PATCH /api/tasks/:id/status",
+      "file": "backend/models/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "PATCH /api/tasks/:id/status",
+      "file": "backend/services/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "PATCH /api/tasks/:id/status",
+      "file": "backend/services/auth.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "PATCH /api/tasks/:id/status",
+      "file": "backend/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "DELETE /api/tasks/:id",
+      "file": "frontend/src/index.jsx",
+      "score": 0.55
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "DELETE /api/tasks/:id",
+      "file": "frontend/src/api/client.js",
+      "score": 0.52
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "DELETE /api/tasks/:id",
+      "file": "backend/services/tasks.py",
+      "score": 0.14
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "DELETE /api/tasks/:id",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.13
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "DELETE /api/tasks/:id",
+      "file": "backend/models/task.py",
+      "score": 0.1
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "DELETE /api/tasks/:id",
+      "file": "backend/cli.py",
+      "score": 0.09
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "DELETE /api/tasks/:id",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.07
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "DELETE /api/tasks/:id",
+      "file": "backend/app.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "DELETE /api/tasks/:id",
+      "file": "backend/__init__.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "DELETE /api/tasks/:id",
+      "file": "backend/services/__init__.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "DELETE /api/tasks/:id",
+      "file": "backend/models/user.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "DELETE /api/tasks/:id",
+      "file": "backend/models/__init__.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "DELETE /api/tasks/:id",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "DELETE /api/tasks/:id",
+      "file": "frontend/src/App.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "DELETE /api/tasks/:id",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "DELETE /api/tasks/:id",
+      "file": "backend/config.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "DELETE /api/tasks/:id",
+      "file": "backend/database.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "DELETE /api/tasks/:id",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "DELETE /api/tasks/:id",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "DELETE /api/tasks/:id",
+      "file": "backend/services/auth.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Architecture",
+      "file": "backend/config.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Architecture",
+      "file": "frontend/src/index.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Architecture",
+      "file": "backend/models/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Architecture",
+      "file": "backend/cli.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Architecture",
+      "file": "backend/models/task.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Architecture",
+      "file": "backend/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Architecture",
+      "file": "backend/database.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Architecture",
+      "file": "backend/services/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Architecture",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Architecture",
+      "file": "backend/services/tasks.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Architecture",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Architecture",
+      "file": "backend/app.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Architecture",
+      "file": "backend/models/user.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Architecture",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Architecture",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Architecture",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Architecture",
+      "file": "frontend/src/App.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Architecture",
+      "file": "frontend/src/api/client.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Architecture",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Architecture",
+      "file": "backend/services/auth.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Overview",
+      "file": "backend/services/__init__.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Overview",
+      "file": "backend/__init__.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Overview",
+      "file": "backend/models/__init__.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Overview",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Overview",
+      "file": "frontend/src/index.jsx",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Overview",
+      "file": "frontend/src/App.jsx",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Overview",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Overview",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Overview",
+      "file": "backend/database.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Overview",
+      "file": "frontend/src/api/client.js",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Overview",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Overview",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Overview",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Overview",
+      "file": "backend/models/user.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Overview",
+      "file": "backend/services/tasks.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Overview",
+      "file": "backend/cli.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Overview",
+      "file": "backend/services/auth.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Overview",
+      "file": "backend/app.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Overview",
+      "file": "backend/models/task.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Overview",
+      "file": "backend/config.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Backend",
+      "file": "backend/cli.py",
+      "score": 0.25
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Backend",
+      "file": "backend/config.py",
+      "score": 0.17
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Backend",
+      "file": "backend/models/task.py",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Backend",
+      "file": "backend/database.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Backend",
+      "file": "backend/services/auth.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Backend",
+      "file": "backend/__init__.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Backend",
+      "file": "backend/services/tasks.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Backend",
+      "file": "backend/models/user.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Backend",
+      "file": "frontend/src/index.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Backend",
+      "file": "backend/app.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Backend",
+      "file": "backend/models/__init__.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Backend",
+      "file": "backend/services/__init__.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Backend",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Backend",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Backend",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Backend",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Backend",
+      "file": "frontend/src/api/client.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Backend",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Backend",
+      "file": "frontend/src/App.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Backend",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "HTTP Server (`app.py`)",
+      "file": "backend/app.py",
+      "score": 0.59
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "HTTP Server (`app.py`)",
+      "file": "frontend/src/index.jsx",
+      "score": 0.36
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "HTTP Server (`app.py`)",
+      "file": "frontend/src/App.jsx",
+      "score": 0.32
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "HTTP Server (`app.py`)",
+      "file": "backend/services/auth.py",
+      "score": 0.3
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "HTTP Server (`app.py`)",
+      "file": "backend/config.py",
+      "score": 0.3
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "HTTP Server (`app.py`)",
+      "file": "backend/cli.py",
+      "score": 0.23
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "HTTP Server (`app.py`)",
+      "file": "backend/database.py",
+      "score": 0.23
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "HTTP Server (`app.py`)",
+      "file": "frontend/src/api/client.js",
+      "score": 0.21
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "HTTP Server (`app.py`)",
+      "file": "backend/services/tasks.py",
+      "score": 0.2
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "HTTP Server (`app.py`)",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.09
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "HTTP Server (`app.py`)",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.08
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "HTTP Server (`app.py`)",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.08
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "HTTP Server (`app.py`)",
+      "file": "backend/models/task.py",
+      "score": 0.06
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "HTTP Server (`app.py`)",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.06
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "HTTP Server (`app.py`)",
+      "file": "backend/models/user.py",
+      "score": 0.06
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "HTTP Server (`app.py`)",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "HTTP Server (`app.py`)",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "HTTP Server (`app.py`)",
+      "file": "backend/services/__init__.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "HTTP Server (`app.py`)",
+      "file": "backend/__init__.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "HTTP Server (`app.py`)",
+      "file": "backend/models/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "CLI (`cli.py`)",
+      "file": "backend/cli.py",
+      "score": 0.84
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "CLI (`cli.py`)",
+      "file": "backend/models/user.py",
+      "score": 0.21
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "CLI (`cli.py`)",
+      "file": "backend/services/tasks.py",
+      "score": 0.1
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "CLI (`cli.py`)",
+      "file": "backend/config.py",
+      "score": 0.06
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "CLI (`cli.py`)",
+      "file": "backend/models/task.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "CLI (`cli.py`)",
+      "file": "backend/database.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "CLI (`cli.py`)",
+      "file": "frontend/src/api/client.js",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "CLI (`cli.py`)",
+      "file": "backend/app.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "CLI (`cli.py`)",
+      "file": "frontend/src/index.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "CLI (`cli.py`)",
+      "file": "backend/services/auth.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "CLI (`cli.py`)",
+      "file": "frontend/src/App.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "CLI (`cli.py`)",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "CLI (`cli.py`)",
+      "file": "backend/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "CLI (`cli.py`)",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "CLI (`cli.py`)",
+      "file": "backend/services/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "CLI (`cli.py`)",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "CLI (`cli.py`)",
+      "file": "backend/models/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "CLI (`cli.py`)",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "CLI (`cli.py`)",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "CLI (`cli.py`)",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Database (`database.py`)",
+      "file": "backend/models/user.py",
+      "score": 0.76
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Database (`database.py`)",
+      "file": "backend/services/tasks.py",
+      "score": 0.64
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Database (`database.py`)",
+      "file": "backend/database.py",
+      "score": 0.55
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Database (`database.py`)",
+      "file": "backend/models/task.py",
+      "score": 0.33
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Database (`database.py`)",
+      "file": "backend/config.py",
+      "score": 0.28
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Database (`database.py`)",
+      "file": "backend/cli.py",
+      "score": 0.08
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Database (`database.py`)",
+      "file": "backend/services/auth.py",
+      "score": 0.08
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Database (`database.py`)",
+      "file": "frontend/src/index.jsx",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Database (`database.py`)",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Database (`database.py`)",
+      "file": "frontend/src/api/client.js",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Database (`database.py`)",
+      "file": "frontend/src/App.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Database (`database.py`)",
+      "file": "backend/app.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Database (`database.py`)",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Database (`database.py`)",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Database (`database.py`)",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Database (`database.py`)",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Database (`database.py`)",
+      "file": "backend/__init__.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Database (`database.py`)",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Database (`database.py`)",
+      "file": "backend/services/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Database (`database.py`)",
+      "file": "backend/models/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Models",
+      "file": "backend/models/task.py",
+      "score": 0.59
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Models",
+      "file": "backend/models/user.py",
+      "score": 0.38
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Models",
+      "file": "backend/models/__init__.py",
+      "score": 0.08
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Models",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Models",
+      "file": "backend/services/tasks.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Models",
+      "file": "backend/config.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Models",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Models",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Models",
+      "file": "frontend/src/App.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Models",
+      "file": "backend/services/__init__.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Models",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Models",
+      "file": "backend/database.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Models",
+      "file": "backend/cli.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Models",
+      "file": "backend/services/auth.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Models",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Models",
+      "file": "backend/__init__.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Models",
+      "file": "backend/app.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Models",
+      "file": "frontend/src/index.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Models",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Models",
+      "file": "frontend/src/api/client.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Services",
+      "file": "backend/services/auth.py",
+      "score": 0.28
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Services",
+      "file": "backend/services/tasks.py",
+      "score": 0.26
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Services",
+      "file": "backend/cli.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Services",
+      "file": "backend/models/task.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Services",
+      "file": "backend/database.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Services",
+      "file": "backend/models/user.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Services",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Services",
+      "file": "backend/services/__init__.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Services",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Services",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Services",
+      "file": "backend/config.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Services",
+      "file": "frontend/src/index.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Services",
+      "file": "frontend/src/api/client.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Services",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Services",
+      "file": "frontend/src/App.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Services",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Services",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Services",
+      "file": "backend/app.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Services",
+      "file": "backend/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Services",
+      "file": "backend/models/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Frontend",
+      "file": "frontend/src/index.jsx",
+      "score": 0.19
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Frontend",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.14
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Frontend",
+      "file": "frontend/src/api/client.js",
+      "score": 0.09
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Frontend",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.07
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Frontend",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Frontend",
+      "file": "backend/cli.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Frontend",
+      "file": "backend/config.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Frontend",
+      "file": "frontend/src/App.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Frontend",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Frontend",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Frontend",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Frontend",
+      "file": "backend/services/tasks.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Frontend",
+      "file": "backend/database.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Frontend",
+      "file": "backend/models/task.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Frontend",
+      "file": "backend/app.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Frontend",
+      "file": "backend/models/user.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Frontend",
+      "file": "backend/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Frontend",
+      "file": "backend/services/auth.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Frontend",
+      "file": "backend/models/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Frontend",
+      "file": "backend/services/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "API Client (`api/client.js`)",
+      "file": "frontend/src/api/client.js",
+      "score": 1.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "API Client (`api/client.js`)",
+      "file": "frontend/src/index.jsx",
+      "score": 0.17
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "API Client (`api/client.js`)",
+      "file": "backend/database.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "API Client (`api/client.js`)",
+      "file": "frontend/src/App.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "API Client (`api/client.js`)",
+      "file": "backend/cli.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "API Client (`api/client.js`)",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "API Client (`api/client.js`)",
+      "file": "backend/config.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "API Client (`api/client.js`)",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "API Client (`api/client.js`)",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "API Client (`api/client.js`)",
+      "file": "backend/app.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "API Client (`api/client.js`)",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "API Client (`api/client.js`)",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "API Client (`api/client.js`)",
+      "file": "backend/services/tasks.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "API Client (`api/client.js`)",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "API Client (`api/client.js`)",
+      "file": "backend/models/user.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "API Client (`api/client.js`)",
+      "file": "backend/models/task.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "API Client (`api/client.js`)",
+      "file": "backend/services/auth.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "API Client (`api/client.js`)",
+      "file": "backend/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "API Client (`api/client.js`)",
+      "file": "backend/services/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "API Client (`api/client.js`)",
+      "file": "backend/models/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Hooks",
+      "file": "frontend/src/App.jsx",
+      "score": 0.82
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Hooks",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.59
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Hooks",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.43
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Hooks",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.38
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Hooks",
+      "file": "frontend/src/api/client.js",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Hooks",
+      "file": "backend/config.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Hooks",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Hooks",
+      "file": "frontend/src/index.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Hooks",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Hooks",
+      "file": "backend/cli.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Hooks",
+      "file": "backend/services/tasks.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Hooks",
+      "file": "backend/database.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Hooks",
+      "file": "backend/services/auth.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Hooks",
+      "file": "backend/app.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Hooks",
+      "file": "backend/models/task.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Hooks",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Hooks",
+      "file": "backend/models/user.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Hooks",
+      "file": "backend/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Hooks",
+      "file": "backend/services/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Hooks",
+      "file": "backend/models/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Components",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.35
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Components",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.22
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Components",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.15
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Components",
+      "file": "frontend/src/index.jsx",
+      "score": 0.08
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Components",
+      "file": "frontend/src/App.jsx",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Components",
+      "file": "backend/services/auth.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Components",
+      "file": "backend/database.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Components",
+      "file": "backend/models/user.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Components",
+      "file": "frontend/src/api/client.js",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Components",
+      "file": "backend/cli.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Components",
+      "file": "backend/config.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Components",
+      "file": "backend/models/task.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Components",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Components",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Components",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Components",
+      "file": "backend/services/tasks.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Components",
+      "file": "backend/app.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Components",
+      "file": "backend/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Components",
+      "file": "backend/services/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Components",
+      "file": "backend/models/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Authentication Flow",
+      "file": "backend/cli.py",
+      "score": 0.71
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Authentication Flow",
+      "file": "backend/services/auth.py",
+      "score": 0.27
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Authentication Flow",
+      "file": "backend/services/tasks.py",
+      "score": 0.25
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Authentication Flow",
+      "file": "frontend/src/App.jsx",
+      "score": 0.19
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Authentication Flow",
+      "file": "backend/models/user.py",
+      "score": 0.19
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Authentication Flow",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.13
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Authentication Flow",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.11
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Authentication Flow",
+      "file": "frontend/src/api/client.js",
+      "score": 0.1
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Authentication Flow",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.1
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Authentication Flow",
+      "file": "backend/models/task.py",
+      "score": 0.1
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Authentication Flow",
+      "file": "backend/config.py",
+      "score": 0.08
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Authentication Flow",
+      "file": "frontend/src/index.jsx",
+      "score": 0.07
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Authentication Flow",
+      "file": "backend/database.py",
+      "score": 0.06
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Authentication Flow",
+      "file": "backend/services/__init__.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Authentication Flow",
+      "file": "backend/__init__.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Authentication Flow",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Authentication Flow",
+      "file": "backend/models/__init__.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Authentication Flow",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Authentication Flow",
+      "file": "backend/app.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Authentication Flow",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "CLI Reference",
+      "file": "backend/cli.py",
+      "score": 0.48
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "CLI Reference",
+      "file": "backend/services/tasks.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "CLI Reference",
+      "file": "backend/config.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "CLI Reference",
+      "file": "backend/models/task.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "CLI Reference",
+      "file": "frontend/src/api/client.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "CLI Reference",
+      "file": "backend/database.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "CLI Reference",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "CLI Reference",
+      "file": "frontend/src/index.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "CLI Reference",
+      "file": "backend/models/user.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "CLI Reference",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "CLI Reference",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "CLI Reference",
+      "file": "backend/app.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "CLI Reference",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "CLI Reference",
+      "file": "backend/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "CLI Reference",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "CLI Reference",
+      "file": "backend/services/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "CLI Reference",
+      "file": "frontend/src/App.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "CLI Reference",
+      "file": "backend/models/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "CLI Reference",
+      "file": "backend/services/auth.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "CLI Reference",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Usage",
+      "file": "backend/cli.py",
+      "score": 0.7
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Usage",
+      "file": "backend/config.py",
+      "score": 0.07
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Usage",
+      "file": "backend/database.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Usage",
+      "file": "backend/__init__.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Usage",
+      "file": "backend/models/task.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Usage",
+      "file": "backend/models/user.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Usage",
+      "file": "backend/models/__init__.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Usage",
+      "file": "backend/services/tasks.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Usage",
+      "file": "backend/services/__init__.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Usage",
+      "file": "backend/services/auth.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Usage",
+      "file": "frontend/src/api/client.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Usage",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Usage",
+      "file": "frontend/src/index.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Usage",
+      "file": "backend/app.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Usage",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Usage",
+      "file": "frontend/src/App.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Usage",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Usage",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Usage",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Usage",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Commands",
+      "file": "backend/cli.py",
+      "score": 0.06
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Commands",
+      "file": "backend/config.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Commands",
+      "file": "backend/models/task.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Commands",
+      "file": "backend/services/tasks.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Commands",
+      "file": "backend/database.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Commands",
+      "file": "frontend/src/index.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Commands",
+      "file": "frontend/src/api/client.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Commands",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Commands",
+      "file": "backend/app.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Commands",
+      "file": "backend/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Commands",
+      "file": "backend/models/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Commands",
+      "file": "backend/models/user.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Commands",
+      "file": "backend/services/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Commands",
+      "file": "backend/services/auth.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Commands",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Commands",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Commands",
+      "file": "frontend/src/App.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Commands",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Commands",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Commands",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "init",
+      "file": "backend/cli.py",
+      "score": 0.91
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "init",
+      "file": "backend/database.py",
+      "score": 0.51
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "init",
+      "file": "backend/__init__.py",
+      "score": 0.36
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "init",
+      "file": "backend/services/__init__.py",
+      "score": 0.29
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "init",
+      "file": "backend/models/__init__.py",
+      "score": 0.23
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "init",
+      "file": "backend/config.py",
+      "score": 0.21
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "init",
+      "file": "backend/models/user.py",
+      "score": 0.11
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "init",
+      "file": "backend/models/task.py",
+      "score": 0.09
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "init",
+      "file": "backend/services/tasks.py",
+      "score": 0.07
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "init",
+      "file": "backend/services/auth.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "init",
+      "file": "frontend/src/api/client.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "init",
+      "file": "backend/app.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "init",
+      "file": "frontend/src/index.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "init",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "init",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "init",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "init",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "init",
+      "file": "frontend/src/App.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "init",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "init",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "config",
+      "file": "backend/cli.py",
+      "score": 0.91
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "config",
+      "file": "backend/config.py",
+      "score": 0.17
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "config",
+      "file": "backend/__init__.py",
+      "score": 0.12
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "config",
+      "file": "backend/database.py",
+      "score": 0.11
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "config",
+      "file": "backend/models/task.py",
+      "score": 0.09
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "config",
+      "file": "backend/services/tasks.py",
+      "score": 0.07
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "config",
+      "file": "backend/models/__init__.py",
+      "score": 0.06
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "config",
+      "file": "backend/services/__init__.py",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "config",
+      "file": "backend/models/user.py",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "config",
+      "file": "backend/services/auth.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "config",
+      "file": "frontend/src/index.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "config",
+      "file": "frontend/src/api/client.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "config",
+      "file": "backend/app.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "config",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "config",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "config",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "config",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "config",
+      "file": "frontend/src/App.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "config",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "config",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "register",
+      "file": "backend/cli.py",
+      "score": 0.84
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "register",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.16
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "register",
+      "file": "frontend/src/api/client.js",
+      "score": 0.16
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "register",
+      "file": "frontend/src/index.jsx",
+      "score": 0.14
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "register",
+      "file": "backend/config.py",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "register",
+      "file": "backend/services/auth.py",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "register",
+      "file": "frontend/src/App.jsx",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "register",
+      "file": "backend/database.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "register",
+      "file": "backend/models/user.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "register",
+      "file": "backend/services/__init__.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "register",
+      "file": "backend/__init__.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "register",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "register",
+      "file": "backend/models/task.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "register",
+      "file": "backend/models/__init__.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "register",
+      "file": "backend/services/tasks.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "register",
+      "file": "backend/app.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "register",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "register",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "register",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "register",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "login",
+      "file": "backend/cli.py",
+      "score": 0.86
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "login",
+      "file": "backend/database.py",
+      "score": 0.07
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "login",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.07
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "login",
+      "file": "backend/__init__.py",
+      "score": 0.06
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "login",
+      "file": "frontend/src/api/client.js",
+      "score": 0.06
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "login",
+      "file": "backend/services/auth.py",
+      "score": 0.06
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "login",
+      "file": "backend/config.py",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "login",
+      "file": "backend/models/user.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "login",
+      "file": "backend/services/__init__.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "login",
+      "file": "backend/models/task.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "login",
+      "file": "frontend/src/App.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "login",
+      "file": "backend/models/__init__.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "login",
+      "file": "backend/services/tasks.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "login",
+      "file": "frontend/src/index.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "login",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "login",
+      "file": "backend/app.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "login",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "login",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "login",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "login",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Task Subcommands",
+      "file": "backend/cli.py",
+      "score": 0.7
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Task Subcommands",
+      "file": "frontend/src/api/client.js",
+      "score": 0.09
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Task Subcommands",
+      "file": "backend/config.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Task Subcommands",
+      "file": "backend/services/tasks.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Task Subcommands",
+      "file": "backend/models/task.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Task Subcommands",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Task Subcommands",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Task Subcommands",
+      "file": "frontend/src/index.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Task Subcommands",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Task Subcommands",
+      "file": "backend/database.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Task Subcommands",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Task Subcommands",
+      "file": "backend/app.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Task Subcommands",
+      "file": "backend/services/auth.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Task Subcommands",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Task Subcommands",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Task Subcommands",
+      "file": "frontend/src/App.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Task Subcommands",
+      "file": "backend/models/user.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Task Subcommands",
+      "file": "backend/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Task Subcommands",
+      "file": "backend/services/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Task Subcommands",
+      "file": "backend/models/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task add",
+      "file": "backend/cli.py",
+      "score": 0.81
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task add",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.66
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task add",
+      "file": "backend/__init__.py",
+      "score": 0.65
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task add",
+      "file": "backend/models/__init__.py",
+      "score": 0.63
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task add",
+      "file": "backend/services/__init__.py",
+      "score": 0.63
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task add",
+      "file": "frontend/src/App.jsx",
+      "score": 0.63
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task add",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.62
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task add",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.58
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task add",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.54
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task add",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.53
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task add",
+      "file": "backend/services/auth.py",
+      "score": 0.51
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task add",
+      "file": "backend/database.py",
+      "score": 0.41
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task add",
+      "file": "frontend/src/api/client.js",
+      "score": 0.41
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task add",
+      "file": "frontend/src/index.jsx",
+      "score": 0.4
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task add",
+      "file": "backend/models/task.py",
+      "score": 0.4
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task add",
+      "file": "backend/models/user.py",
+      "score": 0.37
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task add",
+      "file": "backend/services/tasks.py",
+      "score": 0.34
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task add",
+      "file": "backend/app.py",
+      "score": 0.33
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task add",
+      "file": "backend/config.py",
+      "score": 0.31
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task add",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.23
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task list",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.95
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task list",
+      "file": "backend/cli.py",
+      "score": 0.83
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task list",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.43
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task list",
+      "file": "backend/__init__.py",
+      "score": 0.42
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task list",
+      "file": "backend/config.py",
+      "score": 0.31
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task list",
+      "file": "backend/models/task.py",
+      "score": 0.19
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task list",
+      "file": "backend/models/__init__.py",
+      "score": 0.18
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task list",
+      "file": "backend/services/__init__.py",
+      "score": 0.16
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task list",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.14
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task list",
+      "file": "frontend/src/api/client.js",
+      "score": 0.1
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task list",
+      "file": "frontend/src/App.jsx",
+      "score": 0.09
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task list",
+      "file": "backend/services/tasks.py",
+      "score": 0.09
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task list",
+      "file": "frontend/src/index.jsx",
+      "score": 0.07
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task list",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.06
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task list",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.06
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task list",
+      "file": "backend/models/user.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task list",
+      "file": "backend/app.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task list",
+      "file": "backend/database.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task list",
+      "file": "backend/services/auth.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task list",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task status",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.84
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task status",
+      "file": "backend/cli.py",
+      "score": 0.82
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task status",
+      "file": "backend/models/task.py",
+      "score": 0.63
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task status",
+      "file": "backend/__init__.py",
+      "score": 0.46
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task status",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.39
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task status",
+      "file": "backend/models/__init__.py",
+      "score": 0.36
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task status",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.35
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task status",
+      "file": "backend/database.py",
+      "score": 0.33
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task status",
+      "file": "frontend/src/App.jsx",
+      "score": 0.32
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task status",
+      "file": "backend/models/user.py",
+      "score": 0.31
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task status",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.29
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task status",
+      "file": "backend/services/tasks.py",
+      "score": 0.29
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task status",
+      "file": "backend/services/__init__.py",
+      "score": 0.28
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task status",
+      "file": "frontend/src/index.jsx",
+      "score": 0.24
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task status",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.23
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task status",
+      "file": "backend/config.py",
+      "score": 0.14
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task status",
+      "file": "frontend/src/api/client.js",
+      "score": 0.1
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task status",
+      "file": "backend/services/auth.py",
+      "score": 0.1
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task status",
+      "file": "backend/app.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task status",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task delete",
+      "file": "backend/cli.py",
+      "score": 1.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task delete",
+      "file": "backend/services/tasks.py",
+      "score": 0.54
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task delete",
+      "file": "frontend/src/api/client.js",
+      "score": 0.42
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task delete",
+      "file": "backend/models/task.py",
+      "score": 0.35
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task delete",
+      "file": "backend/config.py",
+      "score": 0.24
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task delete",
+      "file": "backend/database.py",
+      "score": 0.2
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task delete",
+      "file": "backend/__init__.py",
+      "score": 0.1
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task delete",
+      "file": "backend/models/user.py",
+      "score": 0.07
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task delete",
+      "file": "frontend/src/index.jsx",
+      "score": 0.06
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task delete",
+      "file": "backend/models/__init__.py",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task delete",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task delete",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task delete",
+      "file": "backend/services/auth.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task delete",
+      "file": "backend/services/__init__.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task delete",
+      "file": "backend/app.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task delete",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task delete",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task delete",
+      "file": "frontend/src/App.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task delete",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task delete",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task stats",
+      "file": "backend/cli.py",
+      "score": 0.97
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task stats",
+      "file": "backend/models/task.py",
+      "score": 0.58
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task stats",
+      "file": "backend/services/tasks.py",
+      "score": 0.47
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task stats",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.4
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task stats",
+      "file": "backend/config.py",
+      "score": 0.38
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task stats",
+      "file": "frontend/src/api/client.js",
+      "score": 0.35
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task stats",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.34
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task stats",
+      "file": "backend/__init__.py",
+      "score": 0.23
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task stats",
+      "file": "backend/models/__init__.py",
+      "score": 0.14
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task stats",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.12
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task stats",
+      "file": "backend/services/__init__.py",
+      "score": 0.11
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task stats",
+      "file": "backend/database.py",
+      "score": 0.11
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task stats",
+      "file": "backend/models/user.py",
+      "score": 0.09
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task stats",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.07
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task stats",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.06
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task stats",
+      "file": "backend/app.py",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task stats",
+      "file": "backend/services/auth.py",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task stats",
+      "file": "frontend/src/index.jsx",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task stats",
+      "file": "frontend/src/App.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task stats",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Examples",
+      "file": "backend/cli.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Examples",
+      "file": "backend/config.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Examples",
+      "file": "backend/services/tasks.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Examples",
+      "file": "frontend/src/index.jsx",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Examples",
+      "file": "backend/models/task.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Examples",
+      "file": "backend/app.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Examples",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Examples",
+      "file": "backend/services/auth.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Examples",
+      "file": "frontend/src/api/client.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Examples",
+      "file": "backend/database.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Examples",
+      "file": "backend/services/__init__.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Examples",
+      "file": "backend/models/user.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Examples",
+      "file": "backend/__init__.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Examples",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Examples",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Examples",
+      "file": "backend/models/__init__.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Examples",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Examples",
+      "file": "frontend/src/App.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Examples",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Examples",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Code Snippets",
+      "file": "backend/config.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Code Snippets",
+      "file": "backend/cli.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Code Snippets",
+      "file": "frontend/src/index.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Code Snippets",
+      "file": "backend/database.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Code Snippets",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Code Snippets",
+      "file": "frontend/src/api/client.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Code Snippets",
+      "file": "backend/app.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Code Snippets",
+      "file": "backend/services/tasks.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Code Snippets",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Code Snippets",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Code Snippets",
+      "file": "backend/models/task.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Code Snippets",
+      "file": "backend/models/user.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Code Snippets",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Code Snippets",
+      "file": "backend/services/auth.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Code Snippets",
+      "file": "frontend/src/App.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Code Snippets",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Code Snippets",
+      "file": "backend/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Code Snippets",
+      "file": "backend/models/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Code Snippets",
+      "file": "backend/services/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Code Snippets",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Password Hashing",
+      "file": "backend/services/auth.py",
+      "score": 0.13
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Password Hashing",
+      "file": "frontend/src/api/client.js",
+      "score": 0.07
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Password Hashing",
+      "file": "backend/cli.py",
+      "score": 0.06
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Password Hashing",
+      "file": "backend/services/tasks.py",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Password Hashing",
+      "file": "backend/app.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Password Hashing",
+      "file": "backend/database.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Password Hashing",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Password Hashing",
+      "file": "frontend/src/index.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Password Hashing",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Password Hashing",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Password Hashing",
+      "file": "backend/config.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Password Hashing",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Password Hashing",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Password Hashing",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Password Hashing",
+      "file": "backend/models/user.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Password Hashing",
+      "file": "frontend/src/App.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Password Hashing",
+      "file": "backend/__init__.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Password Hashing",
+      "file": "backend/services/__init__.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Password Hashing",
+      "file": "backend/models/task.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Password Hashing",
+      "file": "backend/models/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Token Generation",
+      "file": "frontend/src/api/client.js",
+      "score": 0.06
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Token Generation",
+      "file": "backend/cli.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Token Generation",
+      "file": "backend/services/tasks.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Token Generation",
+      "file": "backend/config.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Token Generation",
+      "file": "backend/__init__.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Token Generation",
+      "file": "backend/models/user.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Token Generation",
+      "file": "backend/models/task.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Token Generation",
+      "file": "backend/services/auth.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Token Generation",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Token Generation",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Token Generation",
+      "file": "backend/app.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Token Generation",
+      "file": "frontend/src/index.jsx",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Token Generation",
+      "file": "backend/database.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Token Generation",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Token Generation",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Token Generation",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Token Generation",
+      "file": "backend/models/__init__.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Token Generation",
+      "file": "backend/services/__init__.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Token Generation",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Token Generation",
+      "file": "frontend/src/App.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Status Transition Guard",
+      "file": "backend/cli.py",
+      "score": 0.09
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Status Transition Guard",
+      "file": "backend/services/auth.py",
+      "score": 0.08
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Status Transition Guard",
+      "file": "backend/services/tasks.py",
+      "score": 0.07
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Status Transition Guard",
+      "file": "frontend/src/index.jsx",
+      "score": 0.07
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Status Transition Guard",
+      "file": "frontend/src/api/client.js",
+      "score": 0.07
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Status Transition Guard",
+      "file": "backend/app.py",
+      "score": 0.06
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Status Transition Guard",
+      "file": "backend/config.py",
+      "score": 0.06
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Status Transition Guard",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Status Transition Guard",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Status Transition Guard",
+      "file": "backend/database.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Status Transition Guard",
+      "file": "backend/models/__init__.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Status Transition Guard",
+      "file": "backend/services/__init__.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Status Transition Guard",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Status Transition Guard",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Status Transition Guard",
+      "file": "backend/__init__.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Status Transition Guard",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Status Transition Guard",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Status Transition Guard",
+      "file": "backend/models/user.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Status Transition Guard",
+      "file": "backend/models/task.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Status Transition Guard",
+      "file": "frontend/src/App.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Route Registration",
+      "file": "backend/app.py",
+      "score": 0.18
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Route Registration",
+      "file": "backend/cli.py",
+      "score": 0.09
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Route Registration",
+      "file": "frontend/src/api/client.js",
+      "score": 0.07
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Route Registration",
+      "file": "backend/services/auth.py",
+      "score": 0.07
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Route Registration",
+      "file": "backend/services/tasks.py",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Route Registration",
+      "file": "frontend/src/index.jsx",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Route Registration",
+      "file": "frontend/src/App.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Route Registration",
+      "file": "backend/config.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Route Registration",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Route Registration",
+      "file": "backend/database.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Route Registration",
+      "file": "backend/models/user.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Route Registration",
+      "file": "backend/models/task.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Route Registration",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Route Registration",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Route Registration",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Route Registration",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Route Registration",
+      "file": "backend/services/__init__.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Route Registration",
+      "file": "backend/models/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Route Registration",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Route Registration",
+      "file": "backend/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "React Task Hook",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.14
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "React Task Hook",
+      "file": "frontend/src/api/client.js",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "React Task Hook",
+      "file": "backend/services/tasks.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "React Task Hook",
+      "file": "backend/services/auth.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "React Task Hook",
+      "file": "backend/app.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "React Task Hook",
+      "file": "backend/cli.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "React Task Hook",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "React Task Hook",
+      "file": "backend/config.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "React Task Hook",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "React Task Hook",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "React Task Hook",
+      "file": "frontend/src/index.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "React Task Hook",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "React Task Hook",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "React Task Hook",
+      "file": "backend/models/task.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "React Task Hook",
+      "file": "frontend/src/App.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "React Task Hook",
+      "file": "backend/database.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "React Task Hook",
+      "file": "backend/services/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "React Task Hook",
+      "file": "backend/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "React Task Hook",
+      "file": "backend/models/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "React Task Hook",
+      "file": "backend/models/user.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Client Error Handling",
+      "file": "frontend/src/api/client.js",
+      "score": 0.22
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Client Error Handling",
+      "file": "backend/cli.py",
+      "score": 0.13
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Client Error Handling",
+      "file": "backend/services/auth.py",
+      "score": 0.11
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Client Error Handling",
+      "file": "backend/app.py",
+      "score": 0.1
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Client Error Handling",
+      "file": "backend/services/tasks.py",
+      "score": 0.08
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Client Error Handling",
+      "file": "backend/__init__.py",
+      "score": 0.08
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Client Error Handling",
+      "file": "frontend/src/index.jsx",
+      "score": 0.08
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Client Error Handling",
+      "file": "backend/services/__init__.py",
+      "score": 0.06
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Client Error Handling",
+      "file": "backend/config.py",
+      "score": 0.06
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Client Error Handling",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Client Error Handling",
+      "file": "backend/models/__init__.py",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Client Error Handling",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Client Error Handling",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Client Error Handling",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Client Error Handling",
+      "file": "backend/database.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Client Error Handling",
+      "file": "backend/models/task.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Client Error Handling",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Client Error Handling",
+      "file": "backend/models/user.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Client Error Handling",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Client Error Handling",
+      "file": "frontend/src/App.jsx",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "CLI Token Storage",
+      "file": "backend/cli.py",
+      "score": 0.08
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "CLI Token Storage",
+      "file": "backend/services/auth.py",
+      "score": 0.06
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "CLI Token Storage",
+      "file": "frontend/src/api/client.js",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "CLI Token Storage",
+      "file": "backend/services/tasks.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "CLI Token Storage",
+      "file": "backend/app.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "CLI Token Storage",
+      "file": "backend/config.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "CLI Token Storage",
+      "file": "backend/database.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "CLI Token Storage",
+      "file": "backend/__init__.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "CLI Token Storage",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "CLI Token Storage",
+      "file": "frontend/src/index.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "CLI Token Storage",
+      "file": "backend/models/user.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "CLI Token Storage",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "CLI Token Storage",
+      "file": "backend/services/__init__.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "CLI Token Storage",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "CLI Token Storage",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "CLI Token Storage",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "CLI Token Storage",
+      "file": "frontend/src/App.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "CLI Token Storage",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "CLI Token Storage",
+      "file": "backend/models/task.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "CLI Token Storage",
+      "file": "backend/models/__init__.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Task Statistics Aggregation",
+      "file": "frontend/src/api/client.js",
+      "score": 0.07
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Task Statistics Aggregation",
+      "file": "backend/cli.py",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Task Statistics Aggregation",
+      "file": "backend/app.py",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Task Statistics Aggregation",
+      "file": "backend/services/tasks.py",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Task Statistics Aggregation",
+      "file": "backend/config.py",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Task Statistics Aggregation",
+      "file": "backend/services/auth.py",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Task Statistics Aggregation",
+      "file": "backend/database.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Task Statistics Aggregation",
+      "file": "frontend/src/index.jsx",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Task Statistics Aggregation",
+      "file": "backend/models/__init__.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Task Statistics Aggregation",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Task Statistics Aggregation",
+      "file": "backend/models/user.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Task Statistics Aggregation",
+      "file": "backend/services/__init__.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Task Statistics Aggregation",
+      "file": "backend/__init__.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Task Statistics Aggregation",
+      "file": "backend/models/task.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Task Statistics Aggregation",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Task Statistics Aggregation",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Task Statistics Aggregation",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Task Statistics Aggregation",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Task Statistics Aggregation",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Task Statistics Aggregation",
+      "file": "frontend/src/App.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Getting Started",
+      "file": "frontend/src/index.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Getting Started",
+      "file": "backend/config.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Getting Started",
+      "file": "frontend/src/api/client.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Getting Started",
+      "file": "backend/database.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Getting Started",
+      "file": "backend/cli.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Getting Started",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Getting Started",
+      "file": "backend/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Getting Started",
+      "file": "backend/services/tasks.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Getting Started",
+      "file": "backend/services/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Getting Started",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Getting Started",
+      "file": "frontend/src/App.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Getting Started",
+      "file": "backend/app.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Getting Started",
+      "file": "backend/models/task.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Getting Started",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Getting Started",
+      "file": "backend/models/user.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Getting Started",
+      "file": "backend/models/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Getting Started",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Getting Started",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Getting Started",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Getting Started",
+      "file": "backend/services/auth.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Prerequisites",
+      "file": "backend/config.py",
+      "score": 0.06
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Prerequisites",
+      "file": "backend/database.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Prerequisites",
+      "file": "frontend/src/index.jsx",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Prerequisites",
+      "file": "backend/cli.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Prerequisites",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Prerequisites",
+      "file": "backend/services/auth.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Prerequisites",
+      "file": "frontend/src/api/client.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Prerequisites",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Prerequisites",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Prerequisites",
+      "file": "backend/services/tasks.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Prerequisites",
+      "file": "frontend/src/App.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Prerequisites",
+      "file": "backend/models/user.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Prerequisites",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Prerequisites",
+      "file": "backend/models/task.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Prerequisites",
+      "file": "backend/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Prerequisites",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Prerequisites",
+      "file": "backend/app.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Prerequisites",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Prerequisites",
+      "file": "backend/models/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Prerequisites",
+      "file": "backend/services/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Backend Setup",
+      "file": "backend/config.py",
+      "score": 0.69
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Backend Setup",
+      "file": "backend/__init__.py",
+      "score": 0.58
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Backend Setup",
+      "file": "backend/database.py",
+      "score": 0.54
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Backend Setup",
+      "file": "backend/services/__init__.py",
+      "score": 0.51
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Backend Setup",
+      "file": "backend/models/__init__.py",
+      "score": 0.46
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Backend Setup",
+      "file": "backend/cli.py",
+      "score": 0.43
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Backend Setup",
+      "file": "backend/models/user.py",
+      "score": 0.41
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Backend Setup",
+      "file": "frontend/src/index.jsx",
+      "score": 0.36
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Backend Setup",
+      "file": "backend/models/task.py",
+      "score": 0.23
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Backend Setup",
+      "file": "backend/services/auth.py",
+      "score": 0.23
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Backend Setup",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.19
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Backend Setup",
+      "file": "backend/services/tasks.py",
+      "score": 0.18
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Backend Setup",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.14
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Backend Setup",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.14
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Backend Setup",
+      "file": "backend/app.py",
+      "score": 0.14
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Backend Setup",
+      "file": "frontend/src/App.jsx",
+      "score": 0.1
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Backend Setup",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.06
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Backend Setup",
+      "file": "frontend/src/api/client.js",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Backend Setup",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Backend Setup",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Frontend Setup",
+      "file": "frontend/src/api/client.js",
+      "score": 0.52
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Frontend Setup",
+      "file": "frontend/src/index.jsx",
+      "score": 0.46
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Frontend Setup",
+      "file": "backend/config.py",
+      "score": 0.31
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Frontend Setup",
+      "file": "backend/cli.py",
+      "score": 0.22
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Frontend Setup",
+      "file": "backend/database.py",
+      "score": 0.17
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Frontend Setup",
+      "file": "frontend/src/App.jsx",
+      "score": 0.15
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Frontend Setup",
+      "file": "backend/services/tasks.py",
+      "score": 0.06
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Frontend Setup",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Frontend Setup",
+      "file": "backend/services/__init__.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Frontend Setup",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Frontend Setup",
+      "file": "backend/__init__.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Frontend Setup",
+      "file": "backend/models/task.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Frontend Setup",
+      "file": "backend/models/user.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Frontend Setup",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Frontend Setup",
+      "file": "backend/app.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Frontend Setup",
+      "file": "backend/services/auth.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Frontend Setup",
+      "file": "backend/models/__init__.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Frontend Setup",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Frontend Setup",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Frontend Setup",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "CLI Usage",
+      "file": "backend/cli.py",
+      "score": 0.57
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "CLI Usage",
+      "file": "backend/config.py",
+      "score": 0.31
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "CLI Usage",
+      "file": "backend/services/tasks.py",
+      "score": 0.27
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "CLI Usage",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.18
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "CLI Usage",
+      "file": "backend/models/task.py",
+      "score": 0.17
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "CLI Usage",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.17
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "CLI Usage",
+      "file": "backend/database.py",
+      "score": 0.13
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "CLI Usage",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.11
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "CLI Usage",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.11
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "CLI Usage",
+      "file": "frontend/src/api/client.js",
+      "score": 0.08
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "CLI Usage",
+      "file": "backend/app.py",
+      "score": 0.07
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "CLI Usage",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.07
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "CLI Usage",
+      "file": "backend/models/user.py",
+      "score": 0.07
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "CLI Usage",
+      "file": "frontend/src/index.jsx",
+      "score": 0.06
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "CLI Usage",
+      "file": "backend/__init__.py",
+      "score": 0.05
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "CLI Usage",
+      "file": "backend/services/auth.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "CLI Usage",
+      "file": "frontend/src/App.jsx",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "CLI Usage",
+      "file": "backend/services/__init__.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "CLI Usage",
+      "file": "backend/models/__init__.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "CLI Usage",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Configuration",
+      "file": "frontend/src/api/client.js",
+      "score": 0.06
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Configuration",
+      "file": "backend/services/tasks.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Configuration",
+      "file": "backend/services/auth.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Configuration",
+      "file": "backend/config.py",
+      "score": 0.04
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Configuration",
+      "file": "backend/__init__.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Configuration",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Configuration",
+      "file": "backend/cli.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Configuration",
+      "file": "backend/models/task.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Configuration",
+      "file": "backend/services/__init__.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Configuration",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Configuration",
+      "file": "frontend/src/App.jsx",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Configuration",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Configuration",
+      "file": "backend/app.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Configuration",
+      "file": "backend/models/__init__.py",
+      "score": 0.03
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Configuration",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Configuration",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Configuration",
+      "file": "backend/models/user.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Configuration",
+      "file": "backend/database.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Configuration",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Configuration",
+      "file": "frontend/src/index.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Environment Variables",
+      "file": "frontend/src/api/client.js",
+      "score": 1.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Environment Variables",
+      "file": "frontend/src/index.jsx",
+      "score": 0.63
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Environment Variables",
+      "file": "backend/config.py",
+      "score": 0.13
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Environment Variables",
+      "file": "frontend/src/App.jsx",
+      "score": 0.06
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Environment Variables",
+      "file": "backend/database.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Environment Variables",
+      "file": "frontend/src/hooks/useAuth.js",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Environment Variables",
+      "file": "backend/cli.py",
+      "score": 0.02
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Environment Variables",
+      "file": "backend/app.py",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Environment Variables",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Environment Variables",
+      "file": "frontend/src/components/TaskList.jsx",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Environment Variables",
+      "file": "frontend/src/utils/helpers.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Environment Variables",
+      "file": "frontend/src/hooks/useTasks.js",
+      "score": 0.01
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Environment Variables",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Environment Variables",
+      "file": "backend/models/task.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Environment Variables",
+      "file": "backend/models/user.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Environment Variables",
+      "file": "backend/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Environment Variables",
+      "file": "backend/services/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Environment Variables",
+      "file": "backend/models/__init__.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Environment Variables",
+      "file": "backend/services/tasks.py",
+      "score": 0.0
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Environment Variables",
+      "file": "backend/services/auth.py",
+      "score": 0.0
+    }
+  ],
+  "tokens": 896652
+}

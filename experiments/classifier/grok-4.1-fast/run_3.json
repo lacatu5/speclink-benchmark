@@ -1,0 +1,649 @@
+{
+  "model": "openrouter/x-ai/grok-4.1-fast",
+  "input_tokens": 89945,
+  "output_tokens": 85351,
+  "entries": [
+    {
+      "doc_file": "docs/api.md",
+      "heading": "API Reference",
+      "file": "backend/app.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "API Reference",
+      "file": "frontend/src/api/client.js",
+      "match": false
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Authentication",
+      "file": "backend/app.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Authentication",
+      "file": "backend/services/auth.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Authentication",
+      "file": "frontend/src/api/client.js",
+      "match": true
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/register",
+      "file": "backend/app.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/register",
+      "file": "backend/cli.py",
+      "match": false
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/register",
+      "file": "backend/services/auth.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/register",
+      "file": "frontend/src/api/client.js",
+      "match": false
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/login",
+      "file": "backend/app.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/login",
+      "file": "backend/cli.py",
+      "match": false
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/login",
+      "file": "backend/services/auth.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/auth/login",
+      "file": "frontend/src/api/client.js",
+      "match": false
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Tasks",
+      "file": "backend/app.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Tasks",
+      "file": "backend/models/task.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Tasks",
+      "file": "backend/services/tasks.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Tasks",
+      "file": "frontend/src/api/client.js",
+      "match": true
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "Tasks",
+      "file": "frontend/src/hooks/useTasks.js",
+      "match": false
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/tasks",
+      "file": "backend/app.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/tasks",
+      "file": "backend/models/task.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/tasks",
+      "file": "backend/services/tasks.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "POST /api/tasks",
+      "file": "frontend/src/api/client.js",
+      "match": false
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks",
+      "file": "backend/app.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks",
+      "file": "backend/models/task.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks",
+      "file": "backend/services/tasks.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks",
+      "file": "frontend/src/api/client.js",
+      "match": false
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks/stats",
+      "file": "backend/app.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks/stats",
+      "file": "backend/cli.py",
+      "match": false
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks/stats",
+      "file": "backend/services/tasks.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "GET /api/tasks/stats",
+      "file": "frontend/src/api/client.js",
+      "match": false
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "PATCH /api/tasks/:id/status",
+      "file": "backend/app.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "PATCH /api/tasks/:id/status",
+      "file": "backend/models/task.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "PATCH /api/tasks/:id/status",
+      "file": "backend/services/tasks.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "PATCH /api/tasks/:id/status",
+      "file": "frontend/src/api/client.js",
+      "match": false
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "DELETE /api/tasks/:id",
+      "file": "backend/app.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "DELETE /api/tasks/:id",
+      "file": "backend/cli.py",
+      "match": false
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "DELETE /api/tasks/:id",
+      "file": "backend/services/tasks.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/api.md",
+      "heading": "DELETE /api/tasks/:id",
+      "file": "frontend/src/api/client.js",
+      "match": false
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Overview",
+      "file": "backend/app.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Overview",
+      "file": "backend/cli.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Overview",
+      "file": "backend/config.py",
+      "match": false
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Overview",
+      "file": "backend/services/tasks.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Overview",
+      "file": "frontend/src/api/client.js",
+      "match": false
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Backend",
+      "file": "backend/app.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "HTTP Server (`app.py`)",
+      "file": "backend/app.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "CLI (`cli.py`)",
+      "file": "backend/cli.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Database (`database.py`)",
+      "file": "backend/database.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Database (`database.py`)",
+      "file": "backend/services/tasks.py",
+      "match": false
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Models",
+      "file": "backend/models/task.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Models",
+      "file": "backend/models/user.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Services",
+      "file": "backend/services/auth.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Services",
+      "file": "backend/services/tasks.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Frontend",
+      "file": "frontend/src/index.jsx",
+      "match": false
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "API Client (`api/client.js`)",
+      "file": "frontend/src/api/client.js",
+      "match": true
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Hooks",
+      "file": "frontend/src/App.jsx",
+      "match": false
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Hooks",
+      "file": "frontend/src/api/client.js",
+      "match": true
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Hooks",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "match": false
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Hooks",
+      "file": "frontend/src/hooks/useAuth.js",
+      "match": true
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Hooks",
+      "file": "frontend/src/hooks/useTasks.js",
+      "match": true
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Components",
+      "file": "frontend/src/App.jsx",
+      "match": true
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Components",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "match": true
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Components",
+      "file": "frontend/src/components/LoginForm.jsx",
+      "match": true
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Components",
+      "file": "frontend/src/components/TaskList.jsx",
+      "match": true
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Authentication Flow",
+      "file": "backend/app.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Authentication Flow",
+      "file": "backend/cli.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Authentication Flow",
+      "file": "backend/services/auth.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/architecture.md",
+      "heading": "Authentication Flow",
+      "file": "frontend/src/api/client.js",
+      "match": true
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "CLI Reference",
+      "file": "backend/cli.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Usage",
+      "file": "backend/cli.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Commands",
+      "file": "backend/cli.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "init",
+      "file": "backend/cli.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "init",
+      "file": "backend/database.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "config",
+      "file": "backend/cli.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "register",
+      "file": "backend/cli.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "login",
+      "file": "backend/cli.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Task Subcommands",
+      "file": "backend/cli.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task add",
+      "file": "backend/cli.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task add",
+      "file": "backend/services/tasks.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task list",
+      "file": "backend/cli.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task list",
+      "file": "backend/services/tasks.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task status",
+      "file": "backend/cli.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task status",
+      "file": "backend/models/task.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task status",
+      "file": "backend/services/tasks.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task status",
+      "file": "frontend/src/api/client.js",
+      "match": false
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task delete",
+      "file": "backend/cli.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task delete",
+      "file": "backend/services/tasks.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task stats",
+      "file": "backend/app.py",
+      "match": false
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task stats",
+      "file": "backend/cli.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task stats",
+      "file": "backend/services/tasks.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "task stats",
+      "file": "frontend/src/api/client.js",
+      "match": false
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Examples",
+      "file": "backend/cli.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/cli.md",
+      "heading": "Examples",
+      "file": "backend/services/tasks.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Password Hashing",
+      "file": "backend/services/auth.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Token Generation",
+      "file": "backend/services/auth.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Status Transition Guard",
+      "file": "backend/models/task.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Route Registration",
+      "file": "backend/app.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "React Task Hook",
+      "file": "frontend/src/components/Dashboard.jsx",
+      "match": false
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "React Task Hook",
+      "file": "frontend/src/hooks/useTasks.js",
+      "match": true
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "API Client Error Handling",
+      "file": "frontend/src/api/client.js",
+      "match": true
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "CLI Token Storage",
+      "file": "backend/cli.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/code-snippets.md",
+      "heading": "Task Statistics Aggregation",
+      "file": "backend/services/tasks.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Backend Setup",
+      "file": "backend/app.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Backend Setup",
+      "file": "backend/cli.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Backend Setup",
+      "file": "backend/config.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "CLI Usage",
+      "file": "backend/cli.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Configuration",
+      "file": "backend/config.py",
+      "match": true
+    },
+    {
+      "doc_file": "docs/getting-started.md",
+      "heading": "Environment Variables",
+      "file": "frontend/src/api/client.js",
+      "match": true
+    }
+  ]
+}

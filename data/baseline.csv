@@ -1,0 +1,1101 @@
+doc_file,heading,file
+docs/api.md,API Reference,backend/__init__.py
+docs/api.md,API Reference,backend/app.py
+docs/api.md,API Reference,backend/cli.py
+docs/api.md,API Reference,backend/config.py
+docs/api.md,API Reference,backend/database.py
+docs/api.md,API Reference,backend/models/__init__.py
+docs/api.md,API Reference,backend/models/task.py
+docs/api.md,API Reference,backend/models/user.py
+docs/api.md,API Reference,backend/services/__init__.py
+docs/api.md,API Reference,backend/services/auth.py
+docs/api.md,API Reference,backend/services/tasks.py
+docs/api.md,API Reference,frontend/src/App.jsx
+docs/api.md,API Reference,frontend/src/api/client.js
+docs/api.md,API Reference,frontend/src/components/Dashboard.jsx
+docs/api.md,API Reference,frontend/src/components/LoginForm.jsx
+docs/api.md,API Reference,frontend/src/components/TaskList.jsx
+docs/api.md,API Reference,frontend/src/hooks/useAuth.js
+docs/api.md,API Reference,frontend/src/hooks/useTasks.js
+docs/api.md,API Reference,frontend/src/index.jsx
+docs/api.md,API Reference,frontend/src/utils/helpers.js
+docs/api.md,Authentication,backend/__init__.py
+docs/api.md,Authentication,backend/app.py
+docs/api.md,Authentication,backend/cli.py
+docs/api.md,Authentication,backend/config.py
+docs/api.md,Authentication,backend/database.py
+docs/api.md,Authentication,backend/models/__init__.py
+docs/api.md,Authentication,backend/models/task.py
+docs/api.md,Authentication,backend/models/user.py
+docs/api.md,Authentication,backend/services/__init__.py
+docs/api.md,Authentication,backend/services/auth.py
+docs/api.md,Authentication,backend/services/tasks.py
+docs/api.md,Authentication,frontend/src/App.jsx
+docs/api.md,Authentication,frontend/src/api/client.js
+docs/api.md,Authentication,frontend/src/components/Dashboard.jsx
+docs/api.md,Authentication,frontend/src/components/LoginForm.jsx
+docs/api.md,Authentication,frontend/src/components/TaskList.jsx
+docs/api.md,Authentication,frontend/src/hooks/useAuth.js
+docs/api.md,Authentication,frontend/src/hooks/useTasks.js
+docs/api.md,Authentication,frontend/src/index.jsx
+docs/api.md,Authentication,frontend/src/utils/helpers.js
+docs/api.md,POST /api/auth/register,backend/__init__.py
+docs/api.md,POST /api/auth/register,backend/app.py
+docs/api.md,POST /api/auth/register,backend/cli.py
+docs/api.md,POST /api/auth/register,backend/config.py
+docs/api.md,POST /api/auth/register,backend/database.py
+docs/api.md,POST /api/auth/register,backend/models/__init__.py
+docs/api.md,POST /api/auth/register,backend/models/task.py
+docs/api.md,POST /api/auth/register,backend/models/user.py
+docs/api.md,POST /api/auth/register,backend/services/__init__.py
+docs/api.md,POST /api/auth/register,backend/services/auth.py
+docs/api.md,POST /api/auth/register,backend/services/tasks.py
+docs/api.md,POST /api/auth/register,frontend/src/App.jsx
+docs/api.md,POST /api/auth/register,frontend/src/api/client.js
+docs/api.md,POST /api/auth/register,frontend/src/components/Dashboard.jsx
+docs/api.md,POST /api/auth/register,frontend/src/components/LoginForm.jsx
+docs/api.md,POST /api/auth/register,frontend/src/components/TaskList.jsx
+docs/api.md,POST /api/auth/register,frontend/src/hooks/useAuth.js
+docs/api.md,POST /api/auth/register,frontend/src/hooks/useTasks.js
+docs/api.md,POST /api/auth/register,frontend/src/index.jsx
+docs/api.md,POST /api/auth/register,frontend/src/utils/helpers.js
+docs/api.md,POST /api/auth/login,backend/__init__.py
+docs/api.md,POST /api/auth/login,backend/app.py
+docs/api.md,POST /api/auth/login,backend/cli.py
+docs/api.md,POST /api/auth/login,backend/config.py
+docs/api.md,POST /api/auth/login,backend/database.py
+docs/api.md,POST /api/auth/login,backend/models/__init__.py
+docs/api.md,POST /api/auth/login,backend/models/task.py
+docs/api.md,POST /api/auth/login,backend/models/user.py
+docs/api.md,POST /api/auth/login,backend/services/__init__.py
+docs/api.md,POST /api/auth/login,backend/services/auth.py
+docs/api.md,POST /api/auth/login,backend/services/tasks.py
+docs/api.md,POST /api/auth/login,frontend/src/App.jsx
+docs/api.md,POST /api/auth/login,frontend/src/api/client.js
+docs/api.md,POST /api/auth/login,frontend/src/components/Dashboard.jsx
+docs/api.md,POST /api/auth/login,frontend/src/components/LoginForm.jsx
+docs/api.md,POST /api/auth/login,frontend/src/components/TaskList.jsx
+docs/api.md,POST /api/auth/login,frontend/src/hooks/useAuth.js
+docs/api.md,POST /api/auth/login,frontend/src/hooks/useTasks.js
+docs/api.md,POST /api/auth/login,frontend/src/index.jsx
+docs/api.md,POST /api/auth/login,frontend/src/utils/helpers.js
+docs/api.md,Tasks,backend/__init__.py
+docs/api.md,Tasks,backend/app.py
+docs/api.md,Tasks,backend/cli.py
+docs/api.md,Tasks,backend/config.py
+docs/api.md,Tasks,backend/database.py
+docs/api.md,Tasks,backend/models/__init__.py
+docs/api.md,Tasks,backend/models/task.py
+docs/api.md,Tasks,backend/models/user.py
+docs/api.md,Tasks,backend/services/__init__.py
+docs/api.md,Tasks,backend/services/auth.py
+docs/api.md,Tasks,backend/services/tasks.py
+docs/api.md,Tasks,frontend/src/App.jsx
+docs/api.md,Tasks,frontend/src/api/client.js
+docs/api.md,Tasks,frontend/src/components/Dashboard.jsx
+docs/api.md,Tasks,frontend/src/components/LoginForm.jsx
+docs/api.md,Tasks,frontend/src/components/TaskList.jsx
+docs/api.md,Tasks,frontend/src/hooks/useAuth.js
+docs/api.md,Tasks,frontend/src/hooks/useTasks.js
+docs/api.md,Tasks,frontend/src/index.jsx
+docs/api.md,Tasks,frontend/src/utils/helpers.js
+docs/api.md,POST /api/tasks,backend/__init__.py
+docs/api.md,POST /api/tasks,backend/app.py
+docs/api.md,POST /api/tasks,backend/cli.py
+docs/api.md,POST /api/tasks,backend/config.py
+docs/api.md,POST /api/tasks,backend/database.py
+docs/api.md,POST /api/tasks,backend/models/__init__.py
+docs/api.md,POST /api/tasks,backend/models/task.py
+docs/api.md,POST /api/tasks,backend/models/user.py
+docs/api.md,POST /api/tasks,backend/services/__init__.py
+docs/api.md,POST /api/tasks,backend/services/auth.py
+docs/api.md,POST /api/tasks,backend/services/tasks.py
+docs/api.md,POST /api/tasks,frontend/src/App.jsx
+docs/api.md,POST /api/tasks,frontend/src/api/client.js
+docs/api.md,POST /api/tasks,frontend/src/components/Dashboard.jsx
+docs/api.md,POST /api/tasks,frontend/src/components/LoginForm.jsx
+docs/api.md,POST /api/tasks,frontend/src/components/TaskList.jsx
+docs/api.md,POST /api/tasks,frontend/src/hooks/useAuth.js
+docs/api.md,POST /api/tasks,frontend/src/hooks/useTasks.js
+docs/api.md,POST /api/tasks,frontend/src/index.jsx
+docs/api.md,POST /api/tasks,frontend/src/utils/helpers.js
+docs/api.md,GET /api/tasks,backend/__init__.py
+docs/api.md,GET /api/tasks,backend/app.py
+docs/api.md,GET /api/tasks,backend/cli.py
+docs/api.md,GET /api/tasks,backend/config.py
+docs/api.md,GET /api/tasks,backend/database.py
+docs/api.md,GET /api/tasks,backend/models/__init__.py
+docs/api.md,GET /api/tasks,backend/models/task.py
+docs/api.md,GET /api/tasks,backend/models/user.py
+docs/api.md,GET /api/tasks,backend/services/__init__.py
+docs/api.md,GET /api/tasks,backend/services/auth.py
+docs/api.md,GET /api/tasks,backend/services/tasks.py
+docs/api.md,GET /api/tasks,frontend/src/App.jsx
+docs/api.md,GET /api/tasks,frontend/src/api/client.js
+docs/api.md,GET /api/tasks,frontend/src/components/Dashboard.jsx
+docs/api.md,GET /api/tasks,frontend/src/components/LoginForm.jsx
+docs/api.md,GET /api/tasks,frontend/src/components/TaskList.jsx
+docs/api.md,GET /api/tasks,frontend/src/hooks/useAuth.js
+docs/api.md,GET /api/tasks,frontend/src/hooks/useTasks.js
+docs/api.md,GET /api/tasks,frontend/src/index.jsx
+docs/api.md,GET /api/tasks,frontend/src/utils/helpers.js
+docs/api.md,GET /api/tasks/stats,backend/__init__.py
+docs/api.md,GET /api/tasks/stats,backend/app.py
+docs/api.md,GET /api/tasks/stats,backend/cli.py
+docs/api.md,GET /api/tasks/stats,backend/config.py
+docs/api.md,GET /api/tasks/stats,backend/database.py
+docs/api.md,GET /api/tasks/stats,backend/models/__init__.py
+docs/api.md,GET /api/tasks/stats,backend/models/task.py
+docs/api.md,GET /api/tasks/stats,backend/models/user.py
+docs/api.md,GET /api/tasks/stats,backend/services/__init__.py
+docs/api.md,GET /api/tasks/stats,backend/services/auth.py
+docs/api.md,GET /api/tasks/stats,backend/services/tasks.py
+docs/api.md,GET /api/tasks/stats,frontend/src/App.jsx
+docs/api.md,GET /api/tasks/stats,frontend/src/api/client.js
+docs/api.md,GET /api/tasks/stats,frontend/src/components/Dashboard.jsx
+docs/api.md,GET /api/tasks/stats,frontend/src/components/LoginForm.jsx
+docs/api.md,GET /api/tasks/stats,frontend/src/components/TaskList.jsx
+docs/api.md,GET /api/tasks/stats,frontend/src/hooks/useAuth.js
+docs/api.md,GET /api/tasks/stats,frontend/src/hooks/useTasks.js
+docs/api.md,GET /api/tasks/stats,frontend/src/index.jsx
+docs/api.md,GET /api/tasks/stats,frontend/src/utils/helpers.js
+docs/api.md,PATCH /api/tasks/:id/status,backend/__init__.py
+docs/api.md,PATCH /api/tasks/:id/status,backend/app.py
+docs/api.md,PATCH /api/tasks/:id/status,backend/cli.py
+docs/api.md,PATCH /api/tasks/:id/status,backend/config.py
+docs/api.md,PATCH /api/tasks/:id/status,backend/database.py
+docs/api.md,PATCH /api/tasks/:id/status,backend/models/__init__.py
+docs/api.md,PATCH /api/tasks/:id/status,backend/models/task.py
+docs/api.md,PATCH /api/tasks/:id/status,backend/models/user.py
+docs/api.md,PATCH /api/tasks/:id/status,backend/services/__init__.py
+docs/api.md,PATCH /api/tasks/:id/status,backend/services/auth.py
+docs/api.md,PATCH /api/tasks/:id/status,backend/services/tasks.py
+docs/api.md,PATCH /api/tasks/:id/status,frontend/src/App.jsx
+docs/api.md,PATCH /api/tasks/:id/status,frontend/src/api/client.js
+docs/api.md,PATCH /api/tasks/:id/status,frontend/src/components/Dashboard.jsx
+docs/api.md,PATCH /api/tasks/:id/status,frontend/src/components/LoginForm.jsx
+docs/api.md,PATCH /api/tasks/:id/status,frontend/src/components/TaskList.jsx
+docs/api.md,PATCH /api/tasks/:id/status,frontend/src/hooks/useAuth.js
+docs/api.md,PATCH /api/tasks/:id/status,frontend/src/hooks/useTasks.js
+docs/api.md,PATCH /api/tasks/:id/status,frontend/src/index.jsx
+docs/api.md,PATCH /api/tasks/:id/status,frontend/src/utils/helpers.js
+docs/api.md,DELETE /api/tasks/:id,backend/__init__.py
+docs/api.md,DELETE /api/tasks/:id,backend/app.py
+docs/api.md,DELETE /api/tasks/:id,backend/cli.py
+docs/api.md,DELETE /api/tasks/:id,backend/config.py
+docs/api.md,DELETE /api/tasks/:id,backend/database.py
+docs/api.md,DELETE /api/tasks/:id,backend/models/__init__.py
+docs/api.md,DELETE /api/tasks/:id,backend/models/task.py
+docs/api.md,DELETE /api/tasks/:id,backend/models/user.py
+docs/api.md,DELETE /api/tasks/:id,backend/services/__init__.py
+docs/api.md,DELETE /api/tasks/:id,backend/services/auth.py
+docs/api.md,DELETE /api/tasks/:id,backend/services/tasks.py
+docs/api.md,DELETE /api/tasks/:id,frontend/src/App.jsx
+docs/api.md,DELETE /api/tasks/:id,frontend/src/api/client.js
+docs/api.md,DELETE /api/tasks/:id,frontend/src/components/Dashboard.jsx
+docs/api.md,DELETE /api/tasks/:id,frontend/src/components/LoginForm.jsx
+docs/api.md,DELETE /api/tasks/:id,frontend/src/components/TaskList.jsx
+docs/api.md,DELETE /api/tasks/:id,frontend/src/hooks/useAuth.js
+docs/api.md,DELETE /api/tasks/:id,frontend/src/hooks/useTasks.js
+docs/api.md,DELETE /api/tasks/:id,frontend/src/index.jsx
+docs/api.md,DELETE /api/tasks/:id,frontend/src/utils/helpers.js
+docs/architecture.md,Architecture,backend/__init__.py
+docs/architecture.md,Architecture,backend/app.py
+docs/architecture.md,Architecture,backend/cli.py
+docs/architecture.md,Architecture,backend/config.py
+docs/architecture.md,Architecture,backend/database.py
+docs/architecture.md,Architecture,backend/models/__init__.py
+docs/architecture.md,Architecture,backend/models/task.py
+docs/architecture.md,Architecture,backend/models/user.py
+docs/architecture.md,Architecture,backend/services/__init__.py
+docs/architecture.md,Architecture,backend/services/auth.py
+docs/architecture.md,Architecture,backend/services/tasks.py
+docs/architecture.md,Architecture,frontend/src/App.jsx
+docs/architecture.md,Architecture,frontend/src/api/client.js
+docs/architecture.md,Architecture,frontend/src/components/Dashboard.jsx
+docs/architecture.md,Architecture,frontend/src/components/LoginForm.jsx
+docs/architecture.md,Architecture,frontend/src/components/TaskList.jsx
+docs/architecture.md,Architecture,frontend/src/hooks/useAuth.js
+docs/architecture.md,Architecture,frontend/src/hooks/useTasks.js
+docs/architecture.md,Architecture,frontend/src/index.jsx
+docs/architecture.md,Architecture,frontend/src/utils/helpers.js
+docs/architecture.md,Overview,backend/__init__.py
+docs/architecture.md,Overview,backend/app.py
+docs/architecture.md,Overview,backend/cli.py
+docs/architecture.md,Overview,backend/config.py
+docs/architecture.md,Overview,backend/database.py
+docs/architecture.md,Overview,backend/models/__init__.py
+docs/architecture.md,Overview,backend/models/task.py
+docs/architecture.md,Overview,backend/models/user.py
+docs/architecture.md,Overview,backend/services/__init__.py
+docs/architecture.md,Overview,backend/services/auth.py
+docs/architecture.md,Overview,backend/services/tasks.py
+docs/architecture.md,Overview,frontend/src/App.jsx
+docs/architecture.md,Overview,frontend/src/api/client.js
+docs/architecture.md,Overview,frontend/src/components/Dashboard.jsx
+docs/architecture.md,Overview,frontend/src/components/LoginForm.jsx
+docs/architecture.md,Overview,frontend/src/components/TaskList.jsx
+docs/architecture.md,Overview,frontend/src/hooks/useAuth.js
+docs/architecture.md,Overview,frontend/src/hooks/useTasks.js
+docs/architecture.md,Overview,frontend/src/index.jsx
+docs/architecture.md,Overview,frontend/src/utils/helpers.js
+docs/architecture.md,Backend,backend/__init__.py
+docs/architecture.md,Backend,backend/app.py
+docs/architecture.md,Backend,backend/cli.py
+docs/architecture.md,Backend,backend/config.py
+docs/architecture.md,Backend,backend/database.py
+docs/architecture.md,Backend,backend/models/__init__.py
+docs/architecture.md,Backend,backend/models/task.py
+docs/architecture.md,Backend,backend/models/user.py
+docs/architecture.md,Backend,backend/services/__init__.py
+docs/architecture.md,Backend,backend/services/auth.py
+docs/architecture.md,Backend,backend/services/tasks.py
+docs/architecture.md,Backend,frontend/src/App.jsx
+docs/architecture.md,Backend,frontend/src/api/client.js
+docs/architecture.md,Backend,frontend/src/components/Dashboard.jsx
+docs/architecture.md,Backend,frontend/src/components/LoginForm.jsx
+docs/architecture.md,Backend,frontend/src/components/TaskList.jsx
+docs/architecture.md,Backend,frontend/src/hooks/useAuth.js
+docs/architecture.md,Backend,frontend/src/hooks/useTasks.js
+docs/architecture.md,Backend,frontend/src/index.jsx
+docs/architecture.md,Backend,frontend/src/utils/helpers.js
+docs/architecture.md,HTTP Server (`app.py`),backend/__init__.py
+docs/architecture.md,HTTP Server (`app.py`),backend/app.py
+docs/architecture.md,HTTP Server (`app.py`),backend/cli.py
+docs/architecture.md,HTTP Server (`app.py`),backend/config.py
+docs/architecture.md,HTTP Server (`app.py`),backend/database.py
+docs/architecture.md,HTTP Server (`app.py`),backend/models/__init__.py
+docs/architecture.md,HTTP Server (`app.py`),backend/models/task.py
+docs/architecture.md,HTTP Server (`app.py`),backend/models/user.py
+docs/architecture.md,HTTP Server (`app.py`),backend/services/__init__.py
+docs/architecture.md,HTTP Server (`app.py`),backend/services/auth.py
+docs/architecture.md,HTTP Server (`app.py`),backend/services/tasks.py
+docs/architecture.md,HTTP Server (`app.py`),frontend/src/App.jsx
+docs/architecture.md,HTTP Server (`app.py`),frontend/src/api/client.js
+docs/architecture.md,HTTP Server (`app.py`),frontend/src/components/Dashboard.jsx
+docs/architecture.md,HTTP Server (`app.py`),frontend/src/components/LoginForm.jsx
+docs/architecture.md,HTTP Server (`app.py`),frontend/src/components/TaskList.jsx
+docs/architecture.md,HTTP Server (`app.py`),frontend/src/hooks/useAuth.js
+docs/architecture.md,HTTP Server (`app.py`),frontend/src/hooks/useTasks.js
+docs/architecture.md,HTTP Server (`app.py`),frontend/src/index.jsx
+docs/architecture.md,HTTP Server (`app.py`),frontend/src/utils/helpers.js
+docs/architecture.md,CLI (`cli.py`),backend/__init__.py
+docs/architecture.md,CLI (`cli.py`),backend/app.py
+docs/architecture.md,CLI (`cli.py`),backend/cli.py
+docs/architecture.md,CLI (`cli.py`),backend/config.py
+docs/architecture.md,CLI (`cli.py`),backend/database.py
+docs/architecture.md,CLI (`cli.py`),backend/models/__init__.py
+docs/architecture.md,CLI (`cli.py`),backend/models/task.py
+docs/architecture.md,CLI (`cli.py`),backend/models/user.py
+docs/architecture.md,CLI (`cli.py`),backend/services/__init__.py
+docs/architecture.md,CLI (`cli.py`),backend/services/auth.py
+docs/architecture.md,CLI (`cli.py`),backend/services/tasks.py
+docs/architecture.md,CLI (`cli.py`),frontend/src/App.jsx
+docs/architecture.md,CLI (`cli.py`),frontend/src/api/client.js
+docs/architecture.md,CLI (`cli.py`),frontend/src/components/Dashboard.jsx
+docs/architecture.md,CLI (`cli.py`),frontend/src/components/LoginForm.jsx
+docs/architecture.md,CLI (`cli.py`),frontend/src/components/TaskList.jsx
+docs/architecture.md,CLI (`cli.py`),frontend/src/hooks/useAuth.js
+docs/architecture.md,CLI (`cli.py`),frontend/src/hooks/useTasks.js
+docs/architecture.md,CLI (`cli.py`),frontend/src/index.jsx
+docs/architecture.md,CLI (`cli.py`),frontend/src/utils/helpers.js
+docs/architecture.md,Database (`database.py`),backend/__init__.py
+docs/architecture.md,Database (`database.py`),backend/app.py
+docs/architecture.md,Database (`database.py`),backend/cli.py
+docs/architecture.md,Database (`database.py`),backend/config.py
+docs/architecture.md,Database (`database.py`),backend/database.py
+docs/architecture.md,Database (`database.py`),backend/models/__init__.py
+docs/architecture.md,Database (`database.py`),backend/models/task.py
+docs/architecture.md,Database (`database.py`),backend/models/user.py
+docs/architecture.md,Database (`database.py`),backend/services/__init__.py
+docs/architecture.md,Database (`database.py`),backend/services/auth.py
+docs/architecture.md,Database (`database.py`),backend/services/tasks.py
+docs/architecture.md,Database (`database.py`),frontend/src/App.jsx
+docs/architecture.md,Database (`database.py`),frontend/src/api/client.js
+docs/architecture.md,Database (`database.py`),frontend/src/components/Dashboard.jsx
+docs/architecture.md,Database (`database.py`),frontend/src/components/LoginForm.jsx
+docs/architecture.md,Database (`database.py`),frontend/src/components/TaskList.jsx
+docs/architecture.md,Database (`database.py`),frontend/src/hooks/useAuth.js
+docs/architecture.md,Database (`database.py`),frontend/src/hooks/useTasks.js
+docs/architecture.md,Database (`database.py`),frontend/src/index.jsx
+docs/architecture.md,Database (`database.py`),frontend/src/utils/helpers.js
+docs/architecture.md,Models,backend/__init__.py
+docs/architecture.md,Models,backend/app.py
+docs/architecture.md,Models,backend/cli.py
+docs/architecture.md,Models,backend/config.py
+docs/architecture.md,Models,backend/database.py
+docs/architecture.md,Models,backend/models/__init__.py
+docs/architecture.md,Models,backend/models/task.py
+docs/architecture.md,Models,backend/models/user.py
+docs/architecture.md,Models,backend/services/__init__.py
+docs/architecture.md,Models,backend/services/auth.py
+docs/architecture.md,Models,backend/services/tasks.py
+docs/architecture.md,Models,frontend/src/App.jsx
+docs/architecture.md,Models,frontend/src/api/client.js
+docs/architecture.md,Models,frontend/src/components/Dashboard.jsx
+docs/architecture.md,Models,frontend/src/components/LoginForm.jsx
+docs/architecture.md,Models,frontend/src/components/TaskList.jsx
+docs/architecture.md,Models,frontend/src/hooks/useAuth.js
+docs/architecture.md,Models,frontend/src/hooks/useTasks.js
+docs/architecture.md,Models,frontend/src/index.jsx
+docs/architecture.md,Models,frontend/src/utils/helpers.js
+docs/architecture.md,Services,backend/__init__.py
+docs/architecture.md,Services,backend/app.py
+docs/architecture.md,Services,backend/cli.py
+docs/architecture.md,Services,backend/config.py
+docs/architecture.md,Services,backend/database.py
+docs/architecture.md,Services,backend/models/__init__.py
+docs/architecture.md,Services,backend/models/task.py
+docs/architecture.md,Services,backend/models/user.py
+docs/architecture.md,Services,backend/services/__init__.py
+docs/architecture.md,Services,backend/services/auth.py
+docs/architecture.md,Services,backend/services/tasks.py
+docs/architecture.md,Services,frontend/src/App.jsx
+docs/architecture.md,Services,frontend/src/api/client.js
+docs/architecture.md,Services,frontend/src/components/Dashboard.jsx
+docs/architecture.md,Services,frontend/src/components/LoginForm.jsx
+docs/architecture.md,Services,frontend/src/components/TaskList.jsx
+docs/architecture.md,Services,frontend/src/hooks/useAuth.js
+docs/architecture.md,Services,frontend/src/hooks/useTasks.js
+docs/architecture.md,Services,frontend/src/index.jsx
+docs/architecture.md,Services,frontend/src/utils/helpers.js
+docs/architecture.md,Frontend,backend/__init__.py
+docs/architecture.md,Frontend,backend/app.py
+docs/architecture.md,Frontend,backend/cli.py
+docs/architecture.md,Frontend,backend/config.py
+docs/architecture.md,Frontend,backend/database.py
+docs/architecture.md,Frontend,backend/models/__init__.py
+docs/architecture.md,Frontend,backend/models/task.py
+docs/architecture.md,Frontend,backend/models/user.py
+docs/architecture.md,Frontend,backend/services/__init__.py
+docs/architecture.md,Frontend,backend/services/auth.py
+docs/architecture.md,Frontend,backend/services/tasks.py
+docs/architecture.md,Frontend,frontend/src/App.jsx
+docs/architecture.md,Frontend,frontend/src/api/client.js
+docs/architecture.md,Frontend,frontend/src/components/Dashboard.jsx
+docs/architecture.md,Frontend,frontend/src/components/LoginForm.jsx
+docs/architecture.md,Frontend,frontend/src/components/TaskList.jsx
+docs/architecture.md,Frontend,frontend/src/hooks/useAuth.js
+docs/architecture.md,Frontend,frontend/src/hooks/useTasks.js
+docs/architecture.md,Frontend,frontend/src/index.jsx
+docs/architecture.md,Frontend,frontend/src/utils/helpers.js
+docs/architecture.md,API Client (`api/client.js`),backend/__init__.py
+docs/architecture.md,API Client (`api/client.js`),backend/app.py
+docs/architecture.md,API Client (`api/client.js`),backend/cli.py
+docs/architecture.md,API Client (`api/client.js`),backend/config.py
+docs/architecture.md,API Client (`api/client.js`),backend/database.py
+docs/architecture.md,API Client (`api/client.js`),backend/models/__init__.py
+docs/architecture.md,API Client (`api/client.js`),backend/models/task.py
+docs/architecture.md,API Client (`api/client.js`),backend/models/user.py
+docs/architecture.md,API Client (`api/client.js`),backend/services/__init__.py
+docs/architecture.md,API Client (`api/client.js`),backend/services/auth.py
+docs/architecture.md,API Client (`api/client.js`),backend/services/tasks.py
+docs/architecture.md,API Client (`api/client.js`),frontend/src/App.jsx
+docs/architecture.md,API Client (`api/client.js`),frontend/src/api/client.js
+docs/architecture.md,API Client (`api/client.js`),frontend/src/components/Dashboard.jsx
+docs/architecture.md,API Client (`api/client.js`),frontend/src/components/LoginForm.jsx
+docs/architecture.md,API Client (`api/client.js`),frontend/src/components/TaskList.jsx
+docs/architecture.md,API Client (`api/client.js`),frontend/src/hooks/useAuth.js
+docs/architecture.md,API Client (`api/client.js`),frontend/src/hooks/useTasks.js
+docs/architecture.md,API Client (`api/client.js`),frontend/src/index.jsx
+docs/architecture.md,API Client (`api/client.js`),frontend/src/utils/helpers.js
+docs/architecture.md,Hooks,backend/__init__.py
+docs/architecture.md,Hooks,backend/app.py
+docs/architecture.md,Hooks,backend/cli.py
+docs/architecture.md,Hooks,backend/config.py
+docs/architecture.md,Hooks,backend/database.py
+docs/architecture.md,Hooks,backend/models/__init__.py
+docs/architecture.md,Hooks,backend/models/task.py
+docs/architecture.md,Hooks,backend/models/user.py
+docs/architecture.md,Hooks,backend/services/__init__.py
+docs/architecture.md,Hooks,backend/services/auth.py
+docs/architecture.md,Hooks,backend/services/tasks.py
+docs/architecture.md,Hooks,frontend/src/App.jsx
+docs/architecture.md,Hooks,frontend/src/api/client.js
+docs/architecture.md,Hooks,frontend/src/components/Dashboard.jsx
+docs/architecture.md,Hooks,frontend/src/components/LoginForm.jsx
+docs/architecture.md,Hooks,frontend/src/components/TaskList.jsx
+docs/architecture.md,Hooks,frontend/src/hooks/useAuth.js
+docs/architecture.md,Hooks,frontend/src/hooks/useTasks.js
+docs/architecture.md,Hooks,frontend/src/index.jsx
+docs/architecture.md,Hooks,frontend/src/utils/helpers.js
+docs/architecture.md,Components,backend/__init__.py
+docs/architecture.md,Components,backend/app.py
+docs/architecture.md,Components,backend/cli.py
+docs/architecture.md,Components,backend/config.py
+docs/architecture.md,Components,backend/database.py
+docs/architecture.md,Components,backend/models/__init__.py
+docs/architecture.md,Components,backend/models/task.py
+docs/architecture.md,Components,backend/models/user.py
+docs/architecture.md,Components,backend/services/__init__.py
+docs/architecture.md,Components,backend/services/auth.py
+docs/architecture.md,Components,backend/services/tasks.py
+docs/architecture.md,Components,frontend/src/App.jsx
+docs/architecture.md,Components,frontend/src/api/client.js
+docs/architecture.md,Components,frontend/src/components/Dashboard.jsx
+docs/architecture.md,Components,frontend/src/components/LoginForm.jsx
+docs/architecture.md,Components,frontend/src/components/TaskList.jsx
+docs/architecture.md,Components,frontend/src/hooks/useAuth.js
+docs/architecture.md,Components,frontend/src/hooks/useTasks.js
+docs/architecture.md,Components,frontend/src/index.jsx
+docs/architecture.md,Components,frontend/src/utils/helpers.js
+docs/architecture.md,Authentication Flow,backend/__init__.py
+docs/architecture.md,Authentication Flow,backend/app.py
+docs/architecture.md,Authentication Flow,backend/cli.py
+docs/architecture.md,Authentication Flow,backend/config.py
+docs/architecture.md,Authentication Flow,backend/database.py
+docs/architecture.md,Authentication Flow,backend/models/__init__.py
+docs/architecture.md,Authentication Flow,backend/models/task.py
+docs/architecture.md,Authentication Flow,backend/models/user.py
+docs/architecture.md,Authentication Flow,backend/services/__init__.py
+docs/architecture.md,Authentication Flow,backend/services/auth.py
+docs/architecture.md,Authentication Flow,backend/services/tasks.py
+docs/architecture.md,Authentication Flow,frontend/src/App.jsx
+docs/architecture.md,Authentication Flow,frontend/src/api/client.js
+docs/architecture.md,Authentication Flow,frontend/src/components/Dashboard.jsx
+docs/architecture.md,Authentication Flow,frontend/src/components/LoginForm.jsx
+docs/architecture.md,Authentication Flow,frontend/src/components/TaskList.jsx
+docs/architecture.md,Authentication Flow,frontend/src/hooks/useAuth.js
+docs/architecture.md,Authentication Flow,frontend/src/hooks/useTasks.js
+docs/architecture.md,Authentication Flow,frontend/src/index.jsx
+docs/architecture.md,Authentication Flow,frontend/src/utils/helpers.js
+docs/cli.md,CLI Reference,backend/__init__.py
+docs/cli.md,CLI Reference,backend/app.py
+docs/cli.md,CLI Reference,backend/cli.py
+docs/cli.md,CLI Reference,backend/config.py
+docs/cli.md,CLI Reference,backend/database.py
+docs/cli.md,CLI Reference,backend/models/__init__.py
+docs/cli.md,CLI Reference,backend/models/task.py
+docs/cli.md,CLI Reference,backend/models/user.py
+docs/cli.md,CLI Reference,backend/services/__init__.py
+docs/cli.md,CLI Reference,backend/services/auth.py
+docs/cli.md,CLI Reference,backend/services/tasks.py
+docs/cli.md,CLI Reference,frontend/src/App.jsx
+docs/cli.md,CLI Reference,frontend/src/api/client.js
+docs/cli.md,CLI Reference,frontend/src/components/Dashboard.jsx
+docs/cli.md,CLI Reference,frontend/src/components/LoginForm.jsx
+docs/cli.md,CLI Reference,frontend/src/components/TaskList.jsx
+docs/cli.md,CLI Reference,frontend/src/hooks/useAuth.js
+docs/cli.md,CLI Reference,frontend/src/hooks/useTasks.js
+docs/cli.md,CLI Reference,frontend/src/index.jsx
+docs/cli.md,CLI Reference,frontend/src/utils/helpers.js
+docs/cli.md,Usage,backend/__init__.py
+docs/cli.md,Usage,backend/app.py
+docs/cli.md,Usage,backend/cli.py
+docs/cli.md,Usage,backend/config.py
+docs/cli.md,Usage,backend/database.py
+docs/cli.md,Usage,backend/models/__init__.py
+docs/cli.md,Usage,backend/models/task.py
+docs/cli.md,Usage,backend/models/user.py
+docs/cli.md,Usage,backend/services/__init__.py
+docs/cli.md,Usage,backend/services/auth.py
+docs/cli.md,Usage,backend/services/tasks.py
+docs/cli.md,Usage,frontend/src/App.jsx
+docs/cli.md,Usage,frontend/src/api/client.js
+docs/cli.md,Usage,frontend/src/components/Dashboard.jsx
+docs/cli.md,Usage,frontend/src/components/LoginForm.jsx
+docs/cli.md,Usage,frontend/src/components/TaskList.jsx
+docs/cli.md,Usage,frontend/src/hooks/useAuth.js
+docs/cli.md,Usage,frontend/src/hooks/useTasks.js
+docs/cli.md,Usage,frontend/src/index.jsx
+docs/cli.md,Usage,frontend/src/utils/helpers.js
+docs/cli.md,Commands,backend/__init__.py
+docs/cli.md,Commands,backend/app.py
+docs/cli.md,Commands,backend/cli.py
+docs/cli.md,Commands,backend/config.py
+docs/cli.md,Commands,backend/database.py
+docs/cli.md,Commands,backend/models/__init__.py
+docs/cli.md,Commands,backend/models/task.py
+docs/cli.md,Commands,backend/models/user.py
+docs/cli.md,Commands,backend/services/__init__.py
+docs/cli.md,Commands,backend/services/auth.py
+docs/cli.md,Commands,backend/services/tasks.py
+docs/cli.md,Commands,frontend/src/App.jsx
+docs/cli.md,Commands,frontend/src/api/client.js
+docs/cli.md,Commands,frontend/src/components/Dashboard.jsx
+docs/cli.md,Commands,frontend/src/components/LoginForm.jsx
+docs/cli.md,Commands,frontend/src/components/TaskList.jsx
+docs/cli.md,Commands,frontend/src/hooks/useAuth.js
+docs/cli.md,Commands,frontend/src/hooks/useTasks.js
+docs/cli.md,Commands,frontend/src/index.jsx
+docs/cli.md,Commands,frontend/src/utils/helpers.js
+docs/cli.md,init,backend/__init__.py
+docs/cli.md,init,backend/app.py
+docs/cli.md,init,backend/cli.py
+docs/cli.md,init,backend/config.py
+docs/cli.md,init,backend/database.py
+docs/cli.md,init,backend/models/__init__.py
+docs/cli.md,init,backend/models/task.py
+docs/cli.md,init,backend/models/user.py
+docs/cli.md,init,backend/services/__init__.py
+docs/cli.md,init,backend/services/auth.py
+docs/cli.md,init,backend/services/tasks.py
+docs/cli.md,init,frontend/src/App.jsx
+docs/cli.md,init,frontend/src/api/client.js
+docs/cli.md,init,frontend/src/components/Dashboard.jsx
+docs/cli.md,init,frontend/src/components/LoginForm.jsx
+docs/cli.md,init,frontend/src/components/TaskList.jsx
+docs/cli.md,init,frontend/src/hooks/useAuth.js
+docs/cli.md,init,frontend/src/hooks/useTasks.js
+docs/cli.md,init,frontend/src/index.jsx
+docs/cli.md,init,frontend/src/utils/helpers.js
+docs/cli.md,config,backend/__init__.py
+docs/cli.md,config,backend/app.py
+docs/cli.md,config,backend/cli.py
+docs/cli.md,config,backend/config.py
+docs/cli.md,config,backend/database.py
+docs/cli.md,config,backend/models/__init__.py
+docs/cli.md,config,backend/models/task.py
+docs/cli.md,config,backend/models/user.py
+docs/cli.md,config,backend/services/__init__.py
+docs/cli.md,config,backend/services/auth.py
+docs/cli.md,config,backend/services/tasks.py
+docs/cli.md,config,frontend/src/App.jsx
+docs/cli.md,config,frontend/src/api/client.js
+docs/cli.md,config,frontend/src/components/Dashboard.jsx
+docs/cli.md,config,frontend/src/components/LoginForm.jsx
+docs/cli.md,config,frontend/src/components/TaskList.jsx
+docs/cli.md,config,frontend/src/hooks/useAuth.js
+docs/cli.md,config,frontend/src/hooks/useTasks.js
+docs/cli.md,config,frontend/src/index.jsx
+docs/cli.md,config,frontend/src/utils/helpers.js
+docs/cli.md,register,backend/__init__.py
+docs/cli.md,register,backend/app.py
+docs/cli.md,register,backend/cli.py
+docs/cli.md,register,backend/config.py
+docs/cli.md,register,backend/database.py
+docs/cli.md,register,backend/models/__init__.py
+docs/cli.md,register,backend/models/task.py
+docs/cli.md,register,backend/models/user.py
+docs/cli.md,register,backend/services/__init__.py
+docs/cli.md,register,backend/services/auth.py
+docs/cli.md,register,backend/services/tasks.py
+docs/cli.md,register,frontend/src/App.jsx
+docs/cli.md,register,frontend/src/api/client.js
+docs/cli.md,register,frontend/src/components/Dashboard.jsx
+docs/cli.md,register,frontend/src/components/LoginForm.jsx
+docs/cli.md,register,frontend/src/components/TaskList.jsx
+docs/cli.md,register,frontend/src/hooks/useAuth.js
+docs/cli.md,register,frontend/src/hooks/useTasks.js
+docs/cli.md,register,frontend/src/index.jsx
+docs/cli.md,register,frontend/src/utils/helpers.js
+docs/cli.md,login,backend/__init__.py
+docs/cli.md,login,backend/app.py
+docs/cli.md,login,backend/cli.py
+docs/cli.md,login,backend/config.py
+docs/cli.md,login,backend/database.py
+docs/cli.md,login,backend/models/__init__.py
+docs/cli.md,login,backend/models/task.py
+docs/cli.md,login,backend/models/user.py
+docs/cli.md,login,backend/services/__init__.py
+docs/cli.md,login,backend/services/auth.py
+docs/cli.md,login,backend/services/tasks.py
+docs/cli.md,login,frontend/src/App.jsx
+docs/cli.md,login,frontend/src/api/client.js
+docs/cli.md,login,frontend/src/components/Dashboard.jsx
+docs/cli.md,login,frontend/src/components/LoginForm.jsx
+docs/cli.md,login,frontend/src/components/TaskList.jsx
+docs/cli.md,login,frontend/src/hooks/useAuth.js
+docs/cli.md,login,frontend/src/hooks/useTasks.js
+docs/cli.md,login,frontend/src/index.jsx
+docs/cli.md,login,frontend/src/utils/helpers.js
+docs/cli.md,Task Subcommands,backend/__init__.py
+docs/cli.md,Task Subcommands,backend/app.py
+docs/cli.md,Task Subcommands,backend/cli.py
+docs/cli.md,Task Subcommands,backend/config.py
+docs/cli.md,Task Subcommands,backend/database.py
+docs/cli.md,Task Subcommands,backend/models/__init__.py
+docs/cli.md,Task Subcommands,backend/models/task.py
+docs/cli.md,Task Subcommands,backend/models/user.py
+docs/cli.md,Task Subcommands,backend/services/__init__.py
+docs/cli.md,Task Subcommands,backend/services/auth.py
+docs/cli.md,Task Subcommands,backend/services/tasks.py
+docs/cli.md,Task Subcommands,frontend/src/App.jsx
+docs/cli.md,Task Subcommands,frontend/src/api/client.js
+docs/cli.md,Task Subcommands,frontend/src/components/Dashboard.jsx
+docs/cli.md,Task Subcommands,frontend/src/components/LoginForm.jsx
+docs/cli.md,Task Subcommands,frontend/src/components/TaskList.jsx
+docs/cli.md,Task Subcommands,frontend/src/hooks/useAuth.js
+docs/cli.md,Task Subcommands,frontend/src/hooks/useTasks.js
+docs/cli.md,Task Subcommands,frontend/src/index.jsx
+docs/cli.md,Task Subcommands,frontend/src/utils/helpers.js
+docs/cli.md,task add,backend/__init__.py
+docs/cli.md,task add,backend/app.py
+docs/cli.md,task add,backend/cli.py
+docs/cli.md,task add,backend/config.py
+docs/cli.md,task add,backend/database.py
+docs/cli.md,task add,backend/models/__init__.py
+docs/cli.md,task add,backend/models/task.py
+docs/cli.md,task add,backend/models/user.py
+docs/cli.md,task add,backend/services/__init__.py
+docs/cli.md,task add,backend/services/auth.py
+docs/cli.md,task add,backend/services/tasks.py
+docs/cli.md,task add,frontend/src/App.jsx
+docs/cli.md,task add,frontend/src/api/client.js
+docs/cli.md,task add,frontend/src/components/Dashboard.jsx
+docs/cli.md,task add,frontend/src/components/LoginForm.jsx
+docs/cli.md,task add,frontend/src/components/TaskList.jsx
+docs/cli.md,task add,frontend/src/hooks/useAuth.js
+docs/cli.md,task add,frontend/src/hooks/useTasks.js
+docs/cli.md,task add,frontend/src/index.jsx
+docs/cli.md,task add,frontend/src/utils/helpers.js
+docs/cli.md,task list,backend/__init__.py
+docs/cli.md,task list,backend/app.py
+docs/cli.md,task list,backend/cli.py
+docs/cli.md,task list,backend/config.py
+docs/cli.md,task list,backend/database.py
+docs/cli.md,task list,backend/models/__init__.py
+docs/cli.md,task list,backend/models/task.py
+docs/cli.md,task list,backend/models/user.py
+docs/cli.md,task list,backend/services/__init__.py
+docs/cli.md,task list,backend/services/auth.py
+docs/cli.md,task list,backend/services/tasks.py
+docs/cli.md,task list,frontend/src/App.jsx
+docs/cli.md,task list,frontend/src/api/client.js
+docs/cli.md,task list,frontend/src/components/Dashboard.jsx
+docs/cli.md,task list,frontend/src/components/LoginForm.jsx
+docs/cli.md,task list,frontend/src/components/TaskList.jsx
+docs/cli.md,task list,frontend/src/hooks/useAuth.js
+docs/cli.md,task list,frontend/src/hooks/useTasks.js
+docs/cli.md,task list,frontend/src/index.jsx
+docs/cli.md,task list,frontend/src/utils/helpers.js
+docs/cli.md,task status,backend/__init__.py
+docs/cli.md,task status,backend/app.py
+docs/cli.md,task status,backend/cli.py
+docs/cli.md,task status,backend/config.py
+docs/cli.md,task status,backend/database.py
+docs/cli.md,task status,backend/models/__init__.py
+docs/cli.md,task status,backend/models/task.py
+docs/cli.md,task status,backend/models/user.py
+docs/cli.md,task status,backend/services/__init__.py
+docs/cli.md,task status,backend/services/auth.py
+docs/cli.md,task status,backend/services/tasks.py
+docs/cli.md,task status,frontend/src/App.jsx
+docs/cli.md,task status,frontend/src/api/client.js
+docs/cli.md,task status,frontend/src/components/Dashboard.jsx
+docs/cli.md,task status,frontend/src/components/LoginForm.jsx
+docs/cli.md,task status,frontend/src/components/TaskList.jsx
+docs/cli.md,task status,frontend/src/hooks/useAuth.js
+docs/cli.md,task status,frontend/src/hooks/useTasks.js
+docs/cli.md,task status,frontend/src/index.jsx
+docs/cli.md,task status,frontend/src/utils/helpers.js
+docs/cli.md,task delete,backend/__init__.py
+docs/cli.md,task delete,backend/app.py
+docs/cli.md,task delete,backend/cli.py
+docs/cli.md,task delete,backend/config.py
+docs/cli.md,task delete,backend/database.py
+docs/cli.md,task delete,backend/models/__init__.py
+docs/cli.md,task delete,backend/models/task.py
+docs/cli.md,task delete,backend/models/user.py
+docs/cli.md,task delete,backend/services/__init__.py
+docs/cli.md,task delete,backend/services/auth.py
+docs/cli.md,task delete,backend/services/tasks.py
+docs/cli.md,task delete,frontend/src/App.jsx
+docs/cli.md,task delete,frontend/src/api/client.js
+docs/cli.md,task delete,frontend/src/components/Dashboard.jsx
+docs/cli.md,task delete,frontend/src/components/LoginForm.jsx
+docs/cli.md,task delete,frontend/src/components/TaskList.jsx
+docs/cli.md,task delete,frontend/src/hooks/useAuth.js
+docs/cli.md,task delete,frontend/src/hooks/useTasks.js
+docs/cli.md,task delete,frontend/src/index.jsx
+docs/cli.md,task delete,frontend/src/utils/helpers.js
+docs/cli.md,task stats,backend/__init__.py
+docs/cli.md,task stats,backend/app.py
+docs/cli.md,task stats,backend/cli.py
+docs/cli.md,task stats,backend/config.py
+docs/cli.md,task stats,backend/database.py
+docs/cli.md,task stats,backend/models/__init__.py
+docs/cli.md,task stats,backend/models/task.py
+docs/cli.md,task stats,backend/models/user.py
+docs/cli.md,task stats,backend/services/__init__.py
+docs/cli.md,task stats,backend/services/auth.py
+docs/cli.md,task stats,backend/services/tasks.py
+docs/cli.md,task stats,frontend/src/App.jsx
+docs/cli.md,task stats,frontend/src/api/client.js
+docs/cli.md,task stats,frontend/src/components/Dashboard.jsx
+docs/cli.md,task stats,frontend/src/components/LoginForm.jsx
+docs/cli.md,task stats,frontend/src/components/TaskList.jsx
+docs/cli.md,task stats,frontend/src/hooks/useAuth.js
+docs/cli.md,task stats,frontend/src/hooks/useTasks.js
+docs/cli.md,task stats,frontend/src/index.jsx
+docs/cli.md,task stats,frontend/src/utils/helpers.js
+docs/cli.md,Examples,backend/__init__.py
+docs/cli.md,Examples,backend/app.py
+docs/cli.md,Examples,backend/cli.py
+docs/cli.md,Examples,backend/config.py
+docs/cli.md,Examples,backend/database.py
+docs/cli.md,Examples,backend/models/__init__.py
+docs/cli.md,Examples,backend/models/task.py
+docs/cli.md,Examples,backend/models/user.py
+docs/cli.md,Examples,backend/services/__init__.py
+docs/cli.md,Examples,backend/services/auth.py
+docs/cli.md,Examples,backend/services/tasks.py
+docs/cli.md,Examples,frontend/src/App.jsx
+docs/cli.md,Examples,frontend/src/api/client.js
+docs/cli.md,Examples,frontend/src/components/Dashboard.jsx
+docs/cli.md,Examples,frontend/src/components/LoginForm.jsx
+docs/cli.md,Examples,frontend/src/components/TaskList.jsx
+docs/cli.md,Examples,frontend/src/hooks/useAuth.js
+docs/cli.md,Examples,frontend/src/hooks/useTasks.js
+docs/cli.md,Examples,frontend/src/index.jsx
+docs/cli.md,Examples,frontend/src/utils/helpers.js
+docs/cli.md,Setup,backend/__init__.py
+docs/cli.md,Setup,backend/app.py
+docs/cli.md,Setup,backend/cli.py
+docs/cli.md,Setup,backend/config.py
+docs/cli.md,Setup,backend/database.py
+docs/cli.md,Setup,backend/models/__init__.py
+docs/cli.md,Setup,backend/models/task.py
+docs/cli.md,Setup,backend/models/user.py
+docs/cli.md,Setup,backend/services/__init__.py
+docs/cli.md,Setup,backend/services/auth.py
+docs/cli.md,Setup,backend/services/tasks.py
+docs/cli.md,Setup,frontend/src/App.jsx
+docs/cli.md,Setup,frontend/src/api/client.js
+docs/cli.md,Setup,frontend/src/components/Dashboard.jsx
+docs/cli.md,Setup,frontend/src/components/LoginForm.jsx
+docs/cli.md,Setup,frontend/src/components/TaskList.jsx
+docs/cli.md,Setup,frontend/src/hooks/useAuth.js
+docs/cli.md,Setup,frontend/src/hooks/useTasks.js
+docs/cli.md,Setup,frontend/src/index.jsx
+docs/cli.md,Setup,frontend/src/utils/helpers.js
+docs/cli.md,Task management,backend/__init__.py
+docs/cli.md,Task management,backend/app.py
+docs/cli.md,Task management,backend/cli.py
+docs/cli.md,Task management,backend/config.py
+docs/cli.md,Task management,backend/database.py
+docs/cli.md,Task management,backend/models/__init__.py
+docs/cli.md,Task management,backend/models/task.py
+docs/cli.md,Task management,backend/models/user.py
+docs/cli.md,Task management,backend/services/__init__.py
+docs/cli.md,Task management,backend/services/auth.py
+docs/cli.md,Task management,backend/services/tasks.py
+docs/cli.md,Task management,frontend/src/App.jsx
+docs/cli.md,Task management,frontend/src/api/client.js
+docs/cli.md,Task management,frontend/src/components/Dashboard.jsx
+docs/cli.md,Task management,frontend/src/components/LoginForm.jsx
+docs/cli.md,Task management,frontend/src/components/TaskList.jsx
+docs/cli.md,Task management,frontend/src/hooks/useAuth.js
+docs/cli.md,Task management,frontend/src/hooks/useTasks.js
+docs/cli.md,Task management,frontend/src/index.jsx
+docs/cli.md,Task management,frontend/src/utils/helpers.js
+docs/code-snippets.md,Code Snippets,backend/__init__.py
+docs/code-snippets.md,Code Snippets,backend/app.py
+docs/code-snippets.md,Code Snippets,backend/cli.py
+docs/code-snippets.md,Code Snippets,backend/config.py
+docs/code-snippets.md,Code Snippets,backend/database.py
+docs/code-snippets.md,Code Snippets,backend/models/__init__.py
+docs/code-snippets.md,Code Snippets,backend/models/task.py
+docs/code-snippets.md,Code Snippets,backend/models/user.py
+docs/code-snippets.md,Code Snippets,backend/services/__init__.py
+docs/code-snippets.md,Code Snippets,backend/services/auth.py
+docs/code-snippets.md,Code Snippets,backend/services/tasks.py
+docs/code-snippets.md,Code Snippets,frontend/src/App.jsx
+docs/code-snippets.md,Code Snippets,frontend/src/api/client.js
+docs/code-snippets.md,Code Snippets,frontend/src/components/Dashboard.jsx
+docs/code-snippets.md,Code Snippets,frontend/src/components/LoginForm.jsx
+docs/code-snippets.md,Code Snippets,frontend/src/components/TaskList.jsx
+docs/code-snippets.md,Code Snippets,frontend/src/hooks/useAuth.js
+docs/code-snippets.md,Code Snippets,frontend/src/hooks/useTasks.js
+docs/code-snippets.md,Code Snippets,frontend/src/index.jsx
+docs/code-snippets.md,Code Snippets,frontend/src/utils/helpers.js
+docs/code-snippets.md,Password Hashing,backend/__init__.py
+docs/code-snippets.md,Password Hashing,backend/app.py
+docs/code-snippets.md,Password Hashing,backend/cli.py
+docs/code-snippets.md,Password Hashing,backend/config.py
+docs/code-snippets.md,Password Hashing,backend/database.py
+docs/code-snippets.md,Password Hashing,backend/models/__init__.py
+docs/code-snippets.md,Password Hashing,backend/models/task.py
+docs/code-snippets.md,Password Hashing,backend/models/user.py
+docs/code-snippets.md,Password Hashing,backend/services/__init__.py
+docs/code-snippets.md,Password Hashing,backend/services/auth.py
+docs/code-snippets.md,Password Hashing,backend/services/tasks.py
+docs/code-snippets.md,Password Hashing,frontend/src/App.jsx
+docs/code-snippets.md,Password Hashing,frontend/src/api/client.js
+docs/code-snippets.md,Password Hashing,frontend/src/components/Dashboard.jsx
+docs/code-snippets.md,Password Hashing,frontend/src/components/LoginForm.jsx
+docs/code-snippets.md,Password Hashing,frontend/src/components/TaskList.jsx
+docs/code-snippets.md,Password Hashing,frontend/src/hooks/useAuth.js
+docs/code-snippets.md,Password Hashing,frontend/src/hooks/useTasks.js
+docs/code-snippets.md,Password Hashing,frontend/src/index.jsx
+docs/code-snippets.md,Password Hashing,frontend/src/utils/helpers.js
+docs/code-snippets.md,Token Generation,backend/__init__.py
+docs/code-snippets.md,Token Generation,backend/app.py
+docs/code-snippets.md,Token Generation,backend/cli.py
+docs/code-snippets.md,Token Generation,backend/config.py
+docs/code-snippets.md,Token Generation,backend/database.py
+docs/code-snippets.md,Token Generation,backend/models/__init__.py
+docs/code-snippets.md,Token Generation,backend/models/task.py
+docs/code-snippets.md,Token Generation,backend/models/user.py
+docs/code-snippets.md,Token Generation,backend/services/__init__.py
+docs/code-snippets.md,Token Generation,backend/services/auth.py
+docs/code-snippets.md,Token Generation,backend/services/tasks.py
+docs/code-snippets.md,Token Generation,frontend/src/App.jsx
+docs/code-snippets.md,Token Generation,frontend/src/api/client.js
+docs/code-snippets.md,Token Generation,frontend/src/components/Dashboard.jsx
+docs/code-snippets.md,Token Generation,frontend/src/components/LoginForm.jsx
+docs/code-snippets.md,Token Generation,frontend/src/components/TaskList.jsx
+docs/code-snippets.md,Token Generation,frontend/src/hooks/useAuth.js
+docs/code-snippets.md,Token Generation,frontend/src/hooks/useTasks.js
+docs/code-snippets.md,Token Generation,frontend/src/index.jsx
+docs/code-snippets.md,Token Generation,frontend/src/utils/helpers.js
+docs/code-snippets.md,Status Transition Guard,backend/__init__.py
+docs/code-snippets.md,Status Transition Guard,backend/app.py
+docs/code-snippets.md,Status Transition Guard,backend/cli.py
+docs/code-snippets.md,Status Transition Guard,backend/config.py
+docs/code-snippets.md,Status Transition Guard,backend/database.py
+docs/code-snippets.md,Status Transition Guard,backend/models/__init__.py
+docs/code-snippets.md,Status Transition Guard,backend/models/task.py
+docs/code-snippets.md,Status Transition Guard,backend/models/user.py
+docs/code-snippets.md,Status Transition Guard,backend/services/__init__.py
+docs/code-snippets.md,Status Transition Guard,backend/services/auth.py
+docs/code-snippets.md,Status Transition Guard,backend/services/tasks.py
+docs/code-snippets.md,Status Transition Guard,frontend/src/App.jsx
+docs/code-snippets.md,Status Transition Guard,frontend/src/api/client.js
+docs/code-snippets.md,Status Transition Guard,frontend/src/components/Dashboard.jsx
+docs/code-snippets.md,Status Transition Guard,frontend/src/components/LoginForm.jsx
+docs/code-snippets.md,Status Transition Guard,frontend/src/components/TaskList.jsx
+docs/code-snippets.md,Status Transition Guard,frontend/src/hooks/useAuth.js
+docs/code-snippets.md,Status Transition Guard,frontend/src/hooks/useTasks.js
+docs/code-snippets.md,Status Transition Guard,frontend/src/index.jsx
+docs/code-snippets.md,Status Transition Guard,frontend/src/utils/helpers.js
+docs/code-snippets.md,API Route Registration,backend/__init__.py
+docs/code-snippets.md,API Route Registration,backend/app.py
+docs/code-snippets.md,API Route Registration,backend/cli.py
+docs/code-snippets.md,API Route Registration,backend/config.py
+docs/code-snippets.md,API Route Registration,backend/database.py
+docs/code-snippets.md,API Route Registration,backend/models/__init__.py
+docs/code-snippets.md,API Route Registration,backend/models/task.py
+docs/code-snippets.md,API Route Registration,backend/models/user.py
+docs/code-snippets.md,API Route Registration,backend/services/__init__.py
+docs/code-snippets.md,API Route Registration,backend/services/auth.py
+docs/code-snippets.md,API Route Registration,backend/services/tasks.py
+docs/code-snippets.md,API Route Registration,frontend/src/App.jsx
+docs/code-snippets.md,API Route Registration,frontend/src/api/client.js
+docs/code-snippets.md,API Route Registration,frontend/src/components/Dashboard.jsx
+docs/code-snippets.md,API Route Registration,frontend/src/components/LoginForm.jsx
+docs/code-snippets.md,API Route Registration,frontend/src/components/TaskList.jsx
+docs/code-snippets.md,API Route Registration,frontend/src/hooks/useAuth.js
+docs/code-snippets.md,API Route Registration,frontend/src/hooks/useTasks.js
+docs/code-snippets.md,API Route Registration,frontend/src/index.jsx
+docs/code-snippets.md,API Route Registration,frontend/src/utils/helpers.js
+docs/code-snippets.md,React Task Hook,backend/__init__.py
+docs/code-snippets.md,React Task Hook,backend/app.py
+docs/code-snippets.md,React Task Hook,backend/cli.py
+docs/code-snippets.md,React Task Hook,backend/config.py
+docs/code-snippets.md,React Task Hook,backend/database.py
+docs/code-snippets.md,React Task Hook,backend/models/__init__.py
+docs/code-snippets.md,React Task Hook,backend/models/task.py
+docs/code-snippets.md,React Task Hook,backend/models/user.py
+docs/code-snippets.md,React Task Hook,backend/services/__init__.py
+docs/code-snippets.md,React Task Hook,backend/services/auth.py
+docs/code-snippets.md,React Task Hook,backend/services/tasks.py
+docs/code-snippets.md,React Task Hook,frontend/src/App.jsx
+docs/code-snippets.md,React Task Hook,frontend/src/api/client.js
+docs/code-snippets.md,React Task Hook,frontend/src/components/Dashboard.jsx
+docs/code-snippets.md,React Task Hook,frontend/src/components/LoginForm.jsx
+docs/code-snippets.md,React Task Hook,frontend/src/components/TaskList.jsx
+docs/code-snippets.md,React Task Hook,frontend/src/hooks/useAuth.js
+docs/code-snippets.md,React Task Hook,frontend/src/hooks/useTasks.js
+docs/code-snippets.md,React Task Hook,frontend/src/index.jsx
+docs/code-snippets.md,React Task Hook,frontend/src/utils/helpers.js
+docs/code-snippets.md,API Client Error Handling,backend/__init__.py
+docs/code-snippets.md,API Client Error Handling,backend/app.py
+docs/code-snippets.md,API Client Error Handling,backend/cli.py
+docs/code-snippets.md,API Client Error Handling,backend/config.py
+docs/code-snippets.md,API Client Error Handling,backend/database.py
+docs/code-snippets.md,API Client Error Handling,backend/models/__init__.py
+docs/code-snippets.md,API Client Error Handling,backend/models/task.py
+docs/code-snippets.md,API Client Error Handling,backend/models/user.py
+docs/code-snippets.md,API Client Error Handling,backend/services/__init__.py
+docs/code-snippets.md,API Client Error Handling,backend/services/auth.py
+docs/code-snippets.md,API Client Error Handling,backend/services/tasks.py
+docs/code-snippets.md,API Client Error Handling,frontend/src/App.jsx
+docs/code-snippets.md,API Client Error Handling,frontend/src/api/client.js
+docs/code-snippets.md,API Client Error Handling,frontend/src/components/Dashboard.jsx
+docs/code-snippets.md,API Client Error Handling,frontend/src/components/LoginForm.jsx
+docs/code-snippets.md,API Client Error Handling,frontend/src/components/TaskList.jsx
+docs/code-snippets.md,API Client Error Handling,frontend/src/hooks/useAuth.js
+docs/code-snippets.md,API Client Error Handling,frontend/src/hooks/useTasks.js
+docs/code-snippets.md,API Client Error Handling,frontend/src/index.jsx
+docs/code-snippets.md,API Client Error Handling,frontend/src/utils/helpers.js
+docs/code-snippets.md,CLI Token Storage,backend/__init__.py
+docs/code-snippets.md,CLI Token Storage,backend/app.py
+docs/code-snippets.md,CLI Token Storage,backend/cli.py
+docs/code-snippets.md,CLI Token Storage,backend/config.py
+docs/code-snippets.md,CLI Token Storage,backend/database.py
+docs/code-snippets.md,CLI Token Storage,backend/models/__init__.py
+docs/code-snippets.md,CLI Token Storage,backend/models/task.py
+docs/code-snippets.md,CLI Token Storage,backend/models/user.py
+docs/code-snippets.md,CLI Token Storage,backend/services/__init__.py
+docs/code-snippets.md,CLI Token Storage,backend/services/auth.py
+docs/code-snippets.md,CLI Token Storage,backend/services/tasks.py
+docs/code-snippets.md,CLI Token Storage,frontend/src/App.jsx
+docs/code-snippets.md,CLI Token Storage,frontend/src/api/client.js
+docs/code-snippets.md,CLI Token Storage,frontend/src/components/Dashboard.jsx
+docs/code-snippets.md,CLI Token Storage,frontend/src/components/LoginForm.jsx
+docs/code-snippets.md,CLI Token Storage,frontend/src/components/TaskList.jsx
+docs/code-snippets.md,CLI Token Storage,frontend/src/hooks/useAuth.js
+docs/code-snippets.md,CLI Token Storage,frontend/src/hooks/useTasks.js
+docs/code-snippets.md,CLI Token Storage,frontend/src/index.jsx
+docs/code-snippets.md,CLI Token Storage,frontend/src/utils/helpers.js
+docs/code-snippets.md,Task Statistics Aggregation,backend/__init__.py
+docs/code-snippets.md,Task Statistics Aggregation,backend/app.py
+docs/code-snippets.md,Task Statistics Aggregation,backend/cli.py
+docs/code-snippets.md,Task Statistics Aggregation,backend/config.py
+docs/code-snippets.md,Task Statistics Aggregation,backend/database.py
+docs/code-snippets.md,Task Statistics Aggregation,backend/models/__init__.py
+docs/code-snippets.md,Task Statistics Aggregation,backend/models/task.py
+docs/code-snippets.md,Task Statistics Aggregation,backend/models/user.py
+docs/code-snippets.md,Task Statistics Aggregation,backend/services/__init__.py
+docs/code-snippets.md,Task Statistics Aggregation,backend/services/auth.py
+docs/code-snippets.md,Task Statistics Aggregation,backend/services/tasks.py
+docs/code-snippets.md,Task Statistics Aggregation,frontend/src/App.jsx
+docs/code-snippets.md,Task Statistics Aggregation,frontend/src/api/client.js
+docs/code-snippets.md,Task Statistics Aggregation,frontend/src/components/Dashboard.jsx
+docs/code-snippets.md,Task Statistics Aggregation,frontend/src/components/LoginForm.jsx
+docs/code-snippets.md,Task Statistics Aggregation,frontend/src/components/TaskList.jsx
+docs/code-snippets.md,Task Statistics Aggregation,frontend/src/hooks/useAuth.js
+docs/code-snippets.md,Task Statistics Aggregation,frontend/src/hooks/useTasks.js
+docs/code-snippets.md,Task Statistics Aggregation,frontend/src/index.jsx
+docs/code-snippets.md,Task Statistics Aggregation,frontend/src/utils/helpers.js
+docs/getting-started.md,Getting Started,backend/__init__.py
+docs/getting-started.md,Getting Started,backend/app.py
+docs/getting-started.md,Getting Started,backend/cli.py
+docs/getting-started.md,Getting Started,backend/config.py
+docs/getting-started.md,Getting Started,backend/database.py
+docs/getting-started.md,Getting Started,backend/models/__init__.py
+docs/getting-started.md,Getting Started,backend/models/task.py
+docs/getting-started.md,Getting Started,backend/models/user.py
+docs/getting-started.md,Getting Started,backend/services/__init__.py
+docs/getting-started.md,Getting Started,backend/services/auth.py
+docs/getting-started.md,Getting Started,backend/services/tasks.py
+docs/getting-started.md,Getting Started,frontend/src/App.jsx
+docs/getting-started.md,Getting Started,frontend/src/api/client.js
+docs/getting-started.md,Getting Started,frontend/src/components/Dashboard.jsx
+docs/getting-started.md,Getting Started,frontend/src/components/LoginForm.jsx
+docs/getting-started.md,Getting Started,frontend/src/components/TaskList.jsx
+docs/getting-started.md,Getting Started,frontend/src/hooks/useAuth.js
+docs/getting-started.md,Getting Started,frontend/src/hooks/useTasks.js
+docs/getting-started.md,Getting Started,frontend/src/index.jsx
+docs/getting-started.md,Getting Started,frontend/src/utils/helpers.js
+docs/getting-started.md,Prerequisites,backend/__init__.py
+docs/getting-started.md,Prerequisites,backend/app.py
+docs/getting-started.md,Prerequisites,backend/cli.py
+docs/getting-started.md,Prerequisites,backend/config.py
+docs/getting-started.md,Prerequisites,backend/database.py
+docs/getting-started.md,Prerequisites,backend/models/__init__.py
+docs/getting-started.md,Prerequisites,backend/models/task.py
+docs/getting-started.md,Prerequisites,backend/models/user.py
+docs/getting-started.md,Prerequisites,backend/services/__init__.py
+docs/getting-started.md,Prerequisites,backend/services/auth.py
+docs/getting-started.md,Prerequisites,backend/services/tasks.py
+docs/getting-started.md,Prerequisites,frontend/src/App.jsx
+docs/getting-started.md,Prerequisites,frontend/src/api/client.js
+docs/getting-started.md,Prerequisites,frontend/src/components/Dashboard.jsx
+docs/getting-started.md,Prerequisites,frontend/src/components/LoginForm.jsx
+docs/getting-started.md,Prerequisites,frontend/src/components/TaskList.jsx
+docs/getting-started.md,Prerequisites,frontend/src/hooks/useAuth.js
+docs/getting-started.md,Prerequisites,frontend/src/hooks/useTasks.js
+docs/getting-started.md,Prerequisites,frontend/src/index.jsx
+docs/getting-started.md,Prerequisites,frontend/src/utils/helpers.js
+docs/getting-started.md,Backend Setup,backend/__init__.py
+docs/getting-started.md,Backend Setup,backend/app.py
+docs/getting-started.md,Backend Setup,backend/cli.py
+docs/getting-started.md,Backend Setup,backend/config.py
+docs/getting-started.md,Backend Setup,backend/database.py
+docs/getting-started.md,Backend Setup,backend/models/__init__.py
+docs/getting-started.md,Backend Setup,backend/models/task.py
+docs/getting-started.md,Backend Setup,backend/models/user.py
+docs/getting-started.md,Backend Setup,backend/services/__init__.py
+docs/getting-started.md,Backend Setup,backend/services/auth.py
+docs/getting-started.md,Backend Setup,backend/services/tasks.py
+docs/getting-started.md,Backend Setup,frontend/src/App.jsx
+docs/getting-started.md,Backend Setup,frontend/src/api/client.js
+docs/getting-started.md,Backend Setup,frontend/src/components/Dashboard.jsx
+docs/getting-started.md,Backend Setup,frontend/src/components/LoginForm.jsx
+docs/getting-started.md,Backend Setup,frontend/src/components/TaskList.jsx
+docs/getting-started.md,Backend Setup,frontend/src/hooks/useAuth.js
+docs/getting-started.md,Backend Setup,frontend/src/hooks/useTasks.js
+docs/getting-started.md,Backend Setup,frontend/src/index.jsx
+docs/getting-started.md,Backend Setup,frontend/src/utils/helpers.js
+docs/getting-started.md,Frontend Setup,backend/__init__.py
+docs/getting-started.md,Frontend Setup,backend/app.py
+docs/getting-started.md,Frontend Setup,backend/cli.py
+docs/getting-started.md,Frontend Setup,backend/config.py
+docs/getting-started.md,Frontend Setup,backend/database.py
+docs/getting-started.md,Frontend Setup,backend/models/__init__.py
+docs/getting-started.md,Frontend Setup,backend/models/task.py
+docs/getting-started.md,Frontend Setup,backend/models/user.py
+docs/getting-started.md,Frontend Setup,backend/services/__init__.py
+docs/getting-started.md,Frontend Setup,backend/services/auth.py
+docs/getting-started.md,Frontend Setup,backend/services/tasks.py
+docs/getting-started.md,Frontend Setup,frontend/src/App.jsx
+docs/getting-started.md,Frontend Setup,frontend/src/api/client.js
+docs/getting-started.md,Frontend Setup,frontend/src/components/Dashboard.jsx
+docs/getting-started.md,Frontend Setup,frontend/src/components/LoginForm.jsx
+docs/getting-started.md,Frontend Setup,frontend/src/components/TaskList.jsx
+docs/getting-started.md,Frontend Setup,frontend/src/hooks/useAuth.js
+docs/getting-started.md,Frontend Setup,frontend/src/hooks/useTasks.js
+docs/getting-started.md,Frontend Setup,frontend/src/index.jsx
+docs/getting-started.md,Frontend Setup,frontend/src/utils/helpers.js
+docs/getting-started.md,CLI Usage,backend/__init__.py
+docs/getting-started.md,CLI Usage,backend/app.py
+docs/getting-started.md,CLI Usage,backend/cli.py
+docs/getting-started.md,CLI Usage,backend/config.py
+docs/getting-started.md,CLI Usage,backend/database.py
+docs/getting-started.md,CLI Usage,backend/models/__init__.py
+docs/getting-started.md,CLI Usage,backend/models/task.py
+docs/getting-started.md,CLI Usage,backend/models/user.py
+docs/getting-started.md,CLI Usage,backend/services/__init__.py
+docs/getting-started.md,CLI Usage,backend/services/auth.py
+docs/getting-started.md,CLI Usage,backend/services/tasks.py
+docs/getting-started.md,CLI Usage,frontend/src/App.jsx
+docs/getting-started.md,CLI Usage,frontend/src/api/client.js
+docs/getting-started.md,CLI Usage,frontend/src/components/Dashboard.jsx
+docs/getting-started.md,CLI Usage,frontend/src/components/LoginForm.jsx
+docs/getting-started.md,CLI Usage,frontend/src/components/TaskList.jsx
+docs/getting-started.md,CLI Usage,frontend/src/hooks/useAuth.js
+docs/getting-started.md,CLI Usage,frontend/src/hooks/useTasks.js
+docs/getting-started.md,CLI Usage,frontend/src/index.jsx
+docs/getting-started.md,CLI Usage,frontend/src/utils/helpers.js
+docs/getting-started.md,Configuration,backend/__init__.py
+docs/getting-started.md,Configuration,backend/app.py
+docs/getting-started.md,Configuration,backend/cli.py
+docs/getting-started.md,Configuration,backend/config.py
+docs/getting-started.md,Configuration,backend/database.py
+docs/getting-started.md,Configuration,backend/models/__init__.py
+docs/getting-started.md,Configuration,backend/models/task.py
+docs/getting-started.md,Configuration,backend/models/user.py
+docs/getting-started.md,Configuration,backend/services/__init__.py
+docs/getting-started.md,Configuration,backend/services/auth.py
+docs/getting-started.md,Configuration,backend/services/tasks.py
+docs/getting-started.md,Configuration,frontend/src/App.jsx
+docs/getting-started.md,Configuration,frontend/src/api/client.js
+docs/getting-started.md,Configuration,frontend/src/components/Dashboard.jsx
+docs/getting-started.md,Configuration,frontend/src/components/LoginForm.jsx
+docs/getting-started.md,Configuration,frontend/src/components/TaskList.jsx
+docs/getting-started.md,Configuration,frontend/src/hooks/useAuth.js
+docs/getting-started.md,Configuration,frontend/src/hooks/useTasks.js
+docs/getting-started.md,Configuration,frontend/src/index.jsx
+docs/getting-started.md,Configuration,frontend/src/utils/helpers.js
+docs/getting-started.md,Environment Variables,backend/__init__.py
+docs/getting-started.md,Environment Variables,backend/app.py
+docs/getting-started.md,Environment Variables,backend/cli.py
+docs/getting-started.md,Environment Variables,backend/config.py
+docs/getting-started.md,Environment Variables,backend/database.py
+docs/getting-started.md,Environment Variables,backend/models/__init__.py
+docs/getting-started.md,Environment Variables,backend/models/task.py
+docs/getting-started.md,Environment Variables,backend/models/user.py
+docs/getting-started.md,Environment Variables,backend/services/__init__.py
+docs/getting-started.md,Environment Variables,backend/services/auth.py
+docs/getting-started.md,Environment Variables,backend/services/tasks.py
+docs/getting-started.md,Environment Variables,frontend/src/App.jsx
+docs/getting-started.md,Environment Variables,frontend/src/api/client.js
+docs/getting-started.md,Environment Variables,frontend/src/components/Dashboard.jsx
+docs/getting-started.md,Environment Variables,frontend/src/components/LoginForm.jsx
+docs/getting-started.md,Environment Variables,frontend/src/components/TaskList.jsx
+docs/getting-started.md,Environment Variables,frontend/src/hooks/useAuth.js
+docs/getting-started.md,Environment Variables,frontend/src/hooks/useTasks.js
+docs/getting-started.md,Environment Variables,frontend/src/index.jsx
+docs/getting-started.md,Environment Variables,frontend/src/utils/helpers.js
